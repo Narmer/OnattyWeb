@@ -1,0 +1,28 @@
+.carousel.slide
+  ol.carousel-indicators
+    li(data-target="#main-slider" data-slide-to="0" class="active")
+    li(data-target="#main-slider" data-slide-to="1")
+    li(data-target="#main-slider" data-slide-to="2")
+  .carousel-inner
+    div(class="item active" style="background-image: url(images/slider/bg1.jpg)")
+      .container
+        .row.slide-margin
+          .col-sm-6
+            .carousel-content
+              h1.animation.animated-item-1 Onatty Kreasyon
+              h2.animation.animated-item-2 Le salon des Locks
+              a(class="btn-slide animation animated-item-3" href="#") Prendre Rendez-Vous
+
+    div(class="item" style="background-image: url(images/slider/bg1.jpg)")
+      .container
+        .row.slide-margin
+          .col-sm-6
+            .carousel-content
+              h1.animation.animated-item-1 Lorem ipsum dolor sit amet consectetur adipisicing elit
+              h2.animation.animated-item-2 Accusantium doloremque laudantium totam rem aperiam, eaque ipsa..
+              a(class="btn-slide animation animated-item-3" href="#") Lire plus
+//-
+  a(class="prev hidden-xs" href="#main-slider" data-slide="prev")
+    i.fa.fa-chevron-left
+  a(class="next hidden-xs" href="#main-slider" data-slide="next")
+    i.fa.fa-chevron-right

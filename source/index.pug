@@ -1,0 +1,51 @@
+doctype html
+html(lang="fr")
+head
+  include includes/_meta.pug
+  title Onatty Kreasyon
+
+  include includes/_css.pug
+
+  include includes/_head-scripts.pug
+
+  include includes/_favicon.pug
+  body.homepage
+
+    header#header
+
+      include includes/_top-bar.pug
+
+      include includes/_navbar.pug
+
+
+    section#main-slider.no-margin
+      include includes/_main-slider.pug
+
+    //-section#feature
+      include includes/_features.pug
+
+    section#recent-works
+      include includes/_recent-work.pug
+
+    section#horaires
+      include includes/_services.pug
+
+    //-section#middle
+      include includes/_middle.pug
+
+    section#content
+      include includes/_content.pug
+
+    section#partner
+      include includes/_partners.pug
+
+    section#conatcat-info
+      include includes/_contact-info.pug
+
+    //-section#bottom
+      include includes/_bottom.pug
+
+    footer#footer.midnight-blue
+      include includes/_footer.pug
+
+    include includes/_scripts.pug
