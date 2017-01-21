@@ -3,6 +3,9 @@
 $main-color: #ffd700;
 $second-color: #d43133;
 
+$main-text-color: #191919;
+$second-text-color: #404040;
+
 .navbar-brand {
   height: 120px;
 }
@@ -190,13 +193,13 @@ body > section {
 
 .top-bar {
   padding: 10px 0;
-  background: #191919;
+  background: $main-color;
   border-bottom: 1px solid #222;
   line-height: 28px;
 }
 
 .top-number{
-  color: #fff;
+  color: $second-text-color;
 }
 
 .top-number p{
@@ -229,8 +232,13 @@ ul.social-share li a {
   border-radius: 2px;
 }
 
-ul.social-share li a:hover {
-  background: $main-color;
+ul.social-share li a.btn-facebook:hover {
+  background: #3b5998;
+  color: #fff;
+}
+
+ul.social-share li a.btn-instagram:hover {
+  background: #fd1d1d;
   color: #fff;
 }
 
@@ -296,7 +304,7 @@ input.search-form:hover {
 
 .navbar-inverse .navbar-nav > li > a:hover{
 	background-color: $main-color;
-  color: #fff;
+  color: $second-text-color;
 }
 
 .navbar-inverse {
@@ -316,7 +324,7 @@ input.search-form:hover {
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
   background-color: $main-color;
-  color: #fff;
+  color: $second-text-color;
 }
 
 .navbar-inverse .navbar-nav .dropdown-menu {
