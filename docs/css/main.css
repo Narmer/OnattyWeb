@@ -971,6 +971,66 @@ a.accordion-toggle i {
 }
 
 /*************************
+********* Pricing ********
+**************************/
+.pricing-single {
+  margin-bottom: 30px;
+}
+
+.plan-name {
+  background: #f4f4f4;
+  padding: 20px;
+  min-height: 168px;
+}
+
+.plan-name h3 {
+  margin: 0 0 10px 0;
+  text-transform: uppercase;
+  color: #ffd700;
+  font-weight: 600;
+  word-spacing: 5px;
+}
+
+.plan-list {
+  background: #eee;
+  padding: 20px;
+  min-height: 168px;
+}
+
+.plan-list ul {
+  margin-bottom: 0;
+}
+
+.plan-list ul li {
+  padding: 5px 0;
+  font-weight: 300;
+  font-size: 15px;
+}
+
+.plan-price {
+  background: #ffd700;
+  padding: 20px;
+  min-height: 168px;
+  text-align: center;
+}
+
+.plan-price span {
+  display: block;
+  color: #404040;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.plan-price a {
+  color: #404040;
+  text-transform: uppercase;
+  border: 2px solid #404040;
+  padding: 8px 20px;
+  display: inline-block;
+  margin-top: 5px;
+}
+
+/*************************
 ********* About Us Page CSS ******
 **************************/
 .about-us {
