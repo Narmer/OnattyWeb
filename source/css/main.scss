@@ -1054,6 +1054,10 @@ a.accordion-toggle  i{
   }
 }
 
+.plan-list2 {
+  padding: 0 20px;
+}
+
 .plan-price {
   background: $main-color;
   padding: 20px;
@@ -1064,6 +1068,10 @@ a.accordion-toggle  i{
     color: $second-text-color;
     font-size: 16px;
     text-transform: uppercase;
+    &.price {
+      font-size: 32px;
+      margin: 15px 0;
+    }
   }
     // span:nth-element() {
     //   font-size: 34px;

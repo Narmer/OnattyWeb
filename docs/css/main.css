@@ -1007,6 +1007,10 @@ a.accordion-toggle i {
   font-size: 15px;
 }
 
+.plan-list2 {
+  padding: 0 20px;
+}
+
 .plan-price {
   background: #ffd700;
   padding: 20px;
@@ -1019,6 +1023,11 @@ a.accordion-toggle i {
   color: #404040;
   font-size: 16px;
   text-transform: uppercase;
+}
+
+.plan-price span.price {
+  font-size: 32px;
+  margin: 15px 0;
 }
 
 .plan-price a {
