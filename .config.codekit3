@@ -100,79 +100,97 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/source\/images\/404.xcf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/docs\/images\/404.xcf",
-		"oF": 0
-		},
-	"\/source\/images\/accordion1.png": {
-		"ft": 32768,
-		"iS": 39104,
+	"\/source\/evenements.pug": {
+		"cOD": 1,
+		"ft": 512,
 		"oA": 0,
-		"oAP": "\/docs\/images\/accordion1.png",
+		"oAP": "\/docs\/evenements.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/source\/fashion-hair-show-2015.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/docs\/fashion-hair-show-2015.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-1.jpg": {
+		"ft": 16384,
+		"iS": 161950,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-1.jpg",
 		"oF": 0,
 		"opt": 1
 		},
-	"\/source\/images\/client1.png": {
-		"ft": 32768,
-		"iS": 42873,
+	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-2.jpg": {
+		"ft": 16384,
+		"iS": 150545,
 		"oA": 0,
-		"oAP": "\/docs\/images\/client1.png",
+		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-2.jpg",
 		"oF": 0,
 		"opt": 1
 		},
-	"\/source\/images\/client2.png": {
-		"ft": 32768,
-		"iS": 47084,
+	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-3.jpg": {
+		"ft": 16384,
+		"iS": 169419,
 		"oA": 0,
-		"oAP": "\/docs\/images\/client2.png",
+		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-3.jpg",
 		"oF": 0,
 		"opt": 1
 		},
-	"\/source\/images\/client3.png": {
-		"ft": 32768,
-		"iS": 45014,
+	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-4.jpg": {
+		"ft": 16384,
+		"iS": 172158,
 		"oA": 0,
-		"oAP": "\/docs\/images\/client3.png",
+		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-4.jpg",
 		"oF": 0,
 		"opt": 1
 		},
-	"\/source\/images\/contact.png": {
-		"ft": 32768,
-		"iS": 87490,
+	"\/source\/images\/Events\/fashion-hair-show-2015.jpg": {
+		"ft": 16384,
+		"iS": 42832,
 		"oA": 0,
-		"oAP": "\/docs\/images\/contact.png",
+		"oAP": "\/docs\/images\/Events\/fashion-hair-show-2015.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/Events\/fashion-hair-show-2016.jpg": {
+		"ft": 16384,
+		"iS": 51029,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/fashion-hair-show-2016.jpg",
 		"oF": 0,
 		"opt": 1
 		},
 	"\/source\/images\/gallery\/gallery1.jpg": {
 		"ft": 16384,
-		"iS": 6214,
+		"iS": 5423,
 		"oA": 0,
 		"oAP": "\/docs\/images\/gallery\/gallery1.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/gallery\/gallery2.jpg": {
 		"ft": 16384,
-		"iS": 5528,
+		"iS": 4752,
 		"oA": 0,
 		"oAP": "\/docs\/images\/gallery\/gallery2.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/gallery\/gallery3.jpg": {
 		"ft": 16384,
-		"iS": 7119,
+		"iS": 6324,
 		"oA": 0,
 		"oAP": "\/docs\/images\/gallery\/gallery3.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/gallery\/gallery4.jpg": {
 		"ft": 16384,
-		"iS": 6960,
+		"iS": 6153,
 		"oA": 0,
 		"oAP": "\/docs\/images\/gallery\/gallery4.jpg",
 		"oF": 0,
@@ -180,19 +198,19 @@
 		},
 	"\/source\/images\/gallery\/gallery5.jpg": {
 		"ft": 16384,
-		"iS": 5201,
+		"iS": 4454,
 		"oA": 0,
 		"oAP": "\/docs\/images\/gallery\/gallery5.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/gallery\/gallery6.jpg": {
 		"ft": 16384,
-		"iS": 6389,
+		"iS": 5625,
 		"oA": 0,
 		"oAP": "\/docs\/images\/gallery\/gallery6.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/ico\/apple-touch-icon-114-precomposed.png": {
 		"ft": 32768,
@@ -208,7 +226,7 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/ico\/apple-touch-icon-144-precomposed.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/ico\/apple-touch-icon-57-precomposed.png": {
 		"ft": 32768,
@@ -232,65 +250,17 @@
 		"oAP": "\/docs\/images\/ico\/favicon.ico",
 		"oF": 0
 		},
-	"\/source\/images\/image_bg.png": {
-		"ft": 32768,
-		"iS": 3257,
-		"oA": 0,
-		"oAP": "\/docs\/images\/image_bg.png",
-		"oF": 0,
-		"opt": 1
-		},
 	"\/source\/images\/logo.png": {
 		"ft": 32768,
-		"iS": 5223,
+		"iS": 19265,
 		"oA": 0,
 		"oAP": "\/docs\/images\/logo.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/man1.jpg": {
-		"ft": 16384,
-		"iS": 7696,
-		"oA": 0,
-		"oAP": "\/docs\/images\/man1.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/man2.jpg": {
-		"ft": 16384,
-		"iS": 7892,
-		"oA": 0,
-		"oAP": "\/docs\/images\/man2.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/man3.jpg": {
-		"ft": 16384,
-		"iS": 7627,
-		"oA": 0,
-		"oAP": "\/docs\/images\/man3.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/source\/images\/man4.jpg": {
-		"ft": 16384,
-		"iS": 8885,
-		"oA": 0,
-		"oAP": "\/docs\/images\/man4.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/map.jpg": {
-		"ft": 16384,
-		"iS": 84150,
-		"oA": 0,
-		"oAP": "\/docs\/images\/map.jpg",
 		"oF": 0,
 		"opt": 0
 		},
 	"\/source\/images\/partners\/partner1.png": {
 		"ft": 32768,
-		"iS": 7041,
+		"iS": 2852,
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/partner1.png",
 		"oF": 0,
@@ -298,23 +268,23 @@
 		},
 	"\/source\/images\/partners\/partner2.png": {
 		"ft": 32768,
-		"iS": 8405,
+		"iS": 6031,
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/partner2.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/partners\/partner3.png": {
 		"ft": 32768,
-		"iS": 7206,
+		"iS": 7552,
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/partner3.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/partners\/partner4.png": {
 		"ft": 32768,
-		"iS": 4924,
+		"iS": 3897,
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/partner4.png",
 		"oF": 0,
@@ -322,231 +292,231 @@
 		},
 	"\/source\/images\/partners\/partner5.png": {
 		"ft": 32768,
-		"iS": 6203,
+		"iS": 9692,
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/partner5.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/partners\/partner_bg.png": {
 		"ft": 32768,
-		"iS": 263750,
+		"iS": 598947,
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/partner_bg.png",
 		"oF": 0,
 		"opt": 1
 		},
-	"\/source\/images\/portfolio\/full\/item1.png": {
-		"ft": 32768,
-		"iS": 269321,
+	"\/source\/images\/portfolio\/full\/photo1.jpg": {
+		"ft": 16384,
+		"iS": 180884,
 		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/full\/item1.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/full\/item10.png": {
-		"ft": 32768,
-		"iS": 395391,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/full\/item10.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/full\/item11.png": {
-		"ft": 32768,
-		"iS": 310159,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/full\/item11.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/full\/item12.png": {
-		"ft": 32768,
-		"iS": 230883,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/full\/item12.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/full\/item2.png": {
-		"ft": 32768,
-		"iS": 332145,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/full\/item2.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/full\/item3.png": {
-		"ft": 32768,
-		"iS": 176921,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/full\/item3.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/full\/item4.png": {
-		"ft": 32768,
-		"iS": 311607,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/full\/item4.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/full\/item5.png": {
-		"ft": 32768,
-		"iS": 343850,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/full\/item5.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/full\/item6.png": {
-		"ft": 32768,
-		"iS": 342592,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/full\/item6.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/full\/item7.png": {
-		"ft": 32768,
-		"iS": 394974,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/full\/item7.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/full\/item8.png": {
-		"ft": 32768,
-		"iS": 418429,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/full\/item8.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/full\/item9.png": {
-		"ft": 32768,
-		"iS": 290724,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/full\/item9.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/recent\/item1.png": {
-		"ft": 32768,
-		"iS": 84479,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/recent\/item1.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/recent\/item10.png": {
-		"ft": 32768,
-		"iS": 103991,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/recent\/item10.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/recent\/item11.png": {
-		"ft": 32768,
-		"iS": 89371,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/recent\/item11.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/recent\/item12.png": {
-		"ft": 32768,
-		"iS": 64567,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/recent\/item12.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/recent\/item2.png": {
-		"ft": 32768,
-		"iS": 100798,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/recent\/item2.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/recent\/item3.png": {
-		"ft": 32768,
-		"iS": 67173,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/recent\/item3.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/recent\/item4.png": {
-		"ft": 32768,
-		"iS": 95565,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/recent\/item4.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/recent\/item5.png": {
-		"ft": 32768,
-		"iS": 103336,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/recent\/item5.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/recent\/item6.png": {
-		"ft": 32768,
-		"iS": 102321,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/recent\/item6.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/recent\/item7.png": {
-		"ft": 32768,
-		"iS": 111589,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/recent\/item7.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/portfolio\/recent\/item8.png": {
-		"ft": 32768,
-		"iS": 116815,
-		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/recent\/item8.png",
+		"oAP": "\/docs\/images\/portfolio\/full\/photo1.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/source\/images\/portfolio\/recent\/item9.png": {
-		"ft": 32768,
-		"iS": 77438,
+	"\/source\/images\/portfolio\/full\/photo10.jpg": {
+		"ft": 16384,
+		"iS": 165672,
 		"oA": 0,
-		"oAP": "\/docs\/images\/portfolio\/recent\/item9.png",
+		"oAP": "\/docs\/images\/portfolio\/full\/photo10.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/full\/photo11.jpg": {
+		"ft": 16384,
+		"iS": 102720,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/full\/photo11.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/full\/photo12.jpg": {
+		"ft": 16384,
+		"iS": 76243,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/full\/photo12.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/full\/photo2.jpg": {
+		"ft": 16384,
+		"iS": 146347,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/full\/photo2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/full\/photo3.jpg": {
+		"ft": 16384,
+		"iS": 160052,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/full\/photo3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/full\/photo4.jpg": {
+		"ft": 16384,
+		"iS": 505293,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/full\/photo4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/full\/photo5.jpg": {
+		"ft": 16384,
+		"iS": 140239,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/full\/photo5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/full\/photo6.jpg": {
+		"ft": 16384,
+		"iS": 175210,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/full\/photo6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/full\/photo7.jpg": {
+		"ft": 16384,
+		"iS": 186414,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/full\/photo7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/full\/photo8.jpg": {
+		"ft": 16384,
+		"iS": 173358,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/full\/photo8.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/full\/photo9.jpg": {
+		"ft": 16384,
+		"iS": 143036,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/full\/photo9.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/recent\/photo1.jpg": {
+		"ft": 16384,
+		"iS": 15379,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/recent\/photo1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/recent\/photo10.jpg": {
+		"ft": 16384,
+		"iS": 22773,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/recent\/photo10.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/recent\/photo11.jpg": {
+		"ft": 16384,
+		"iS": 32491,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/recent\/photo11.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/recent\/photo12.jpg": {
+		"ft": 16384,
+		"iS": 52215,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/recent\/photo12.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/recent\/photo2.jpg": {
+		"ft": 16384,
+		"iS": 16344,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/recent\/photo2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/recent\/photo3.jpg": {
+		"ft": 16384,
+		"iS": 13312,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/recent\/photo3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/recent\/photo4.jpg": {
+		"ft": 16384,
+		"iS": 13917,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/recent\/photo4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/recent\/photo5.jpg": {
+		"ft": 16384,
+		"iS": 16044,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/recent\/photo5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/recent\/photo6.jpg": {
+		"ft": 16384,
+		"iS": 19449,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/recent\/photo6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/recent\/photo7.jpg": {
+		"ft": 16384,
+		"iS": 18429,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/recent\/photo7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/recent\/photo8.jpg": {
+		"ft": 16384,
+		"iS": 16248,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/recent\/photo8.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/portfolio\/recent\/photo9.jpg": {
+		"ft": 16384,
+		"iS": 20134,
+		"oA": 0,
+		"oAP": "\/docs\/images\/portfolio\/recent\/photo9.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/dark_rounded\/btnNext.png": {
 		"ft": 32768,
-		"iS": 1411,
+		"iS": 932,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_rounded\/btnNext.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/dark_rounded\/btnPrevious.png": {
 		"ft": 32768,
-		"iS": 1442,
+		"iS": 944,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_rounded\/btnPrevious.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/dark_rounded\/contentPattern.png": {
 		"ft": 32768,
-		"iS": 130,
+		"iS": 117,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_rounded\/contentPattern.png",
 		"oF": 0,
@@ -554,15 +524,15 @@
 		},
 	"\/source\/images\/prettyPhoto\/dark_rounded\/default_thumbnail.gif": {
 		"ft": 4194304,
-		"iS": 227,
+		"iS": 219,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_rounded\/default_thumbnail.gif",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/dark_rounded\/loader.gif": {
 		"ft": 4194304,
-		"iS": 2545,
+		"iS": 2506,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_rounded\/loader.gif",
 		"oF": 0,
@@ -570,39 +540,39 @@
 		},
 	"\/source\/images\/prettyPhoto\/dark_rounded\/sprite.png": {
 		"ft": 32768,
-		"iS": 4076,
+		"iS": 2327,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_rounded\/sprite.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/dark_square\/btnNext.png": {
 		"ft": 32768,
-		"iS": 1411,
+		"iS": 932,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_square\/btnNext.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/dark_square\/btnPrevious.png": {
 		"ft": 32768,
-		"iS": 1442,
+		"iS": 944,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_square\/btnPrevious.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/dark_square\/contentPattern.png": {
 		"ft": 32768,
-		"iS": 121,
+		"iS": 109,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_square\/contentPattern.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/dark_square\/default_thumbnail.gif": {
 		"ft": 4194304,
-		"iS": 227,
+		"iS": 219,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_square\/default_thumbnail.gif",
 		"oF": 0,
@@ -610,31 +580,31 @@
 		},
 	"\/source\/images\/prettyPhoto\/dark_square\/loader.gif": {
 		"ft": 4194304,
-		"iS": 2545,
+		"iS": 2506,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_square\/loader.gif",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/dark_square\/sprite.png": {
 		"ft": 32768,
-		"iS": 3507,
+		"iS": 1994,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_square\/sprite.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/default\/default_thumb.png": {
 		"ft": 32768,
-		"iS": 1537,
+		"iS": 1268,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/default\/default_thumb.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/default\/loader.gif": {
 		"ft": 4194304,
-		"iS": 6331,
+		"iS": 4987,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/default\/loader.gif",
 		"oF": 0,
@@ -642,23 +612,23 @@
 		},
 	"\/source\/images\/prettyPhoto\/default\/sprite.png": {
 		"ft": 32768,
-		"iS": 6682,
+		"iS": 4242,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/default\/sprite.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/default\/sprite_next.png": {
 		"ft": 32768,
-		"iS": 1358,
+		"iS": 1175,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/default\/sprite_next.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/default\/sprite_prev.png": {
 		"ft": 32768,
-		"iS": 1376,
+		"iS": 1173,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/default\/sprite_prev.png",
 		"oF": 0,
@@ -666,47 +636,47 @@
 		},
 	"\/source\/images\/prettyPhoto\/default\/sprite_x.png": {
 		"ft": 32768,
-		"iS": 1097,
+		"iS": 1067,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/default\/sprite_x.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/default\/sprite_y.png": {
 		"ft": 32768,
-		"iS": 1162,
+		"iS": 1073,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/default\/sprite_y.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/facebook\/btnNext.png": {
 		"ft": 32768,
-		"iS": 845,
+		"iS": 492,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/facebook\/btnNext.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/facebook\/btnPrevious.png": {
 		"ft": 32768,
-		"iS": 828,
+		"iS": 492,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/facebook\/btnPrevious.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/facebook\/contentPatternBottom.png": {
 		"ft": 32768,
-		"iS": 142,
+		"iS": 125,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/facebook\/contentPatternBottom.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/facebook\/contentPatternLeft.png": {
 		"ft": 32768,
-		"iS": 137,
+		"iS": 118,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/facebook\/contentPatternLeft.png",
 		"oF": 0,
@@ -714,63 +684,63 @@
 		},
 	"\/source\/images\/prettyPhoto\/facebook\/contentPatternRight.png": {
 		"ft": 32768,
-		"iS": 136,
+		"iS": 117,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/facebook\/contentPatternRight.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/facebook\/contentPatternTop.png": {
 		"ft": 32768,
-		"iS": 142,
+		"iS": 125,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/facebook\/contentPatternTop.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/facebook\/default_thumbnail.gif": {
 		"ft": 4194304,
-		"iS": 227,
+		"iS": 219,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/facebook\/default_thumbnail.gif",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/facebook\/loader.gif": {
 		"ft": 4194304,
-		"iS": 2545,
+		"iS": 2506,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/facebook\/loader.gif",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/facebook\/sprite.png": {
 		"ft": 32768,
-		"iS": 4227,
+		"iS": 2135,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/facebook\/sprite.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/light_rounded\/btnNext.png": {
 		"ft": 32768,
-		"iS": 1411,
+		"iS": 932,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/light_rounded\/btnNext.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/light_rounded\/btnPrevious.png": {
 		"ft": 32768,
-		"iS": 1442,
+		"iS": 944,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/light_rounded\/btnPrevious.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/light_rounded\/default_thumbnail.gif": {
 		"ft": 4194304,
-		"iS": 227,
+		"iS": 219,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/light_rounded\/default_thumbnail.gif",
 		"oF": 0,
@@ -778,15 +748,15 @@
 		},
 	"\/source\/images\/prettyPhoto\/light_rounded\/loader.gif": {
 		"ft": 4194304,
-		"iS": 2545,
+		"iS": 2506,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/light_rounded\/loader.gif",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/light_rounded\/sprite.png": {
 		"ft": 32768,
-		"iS": 4099,
+		"iS": 2301,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/light_rounded\/sprite.png",
 		"oF": 0,
@@ -794,265 +764,65 @@
 		},
 	"\/source\/images\/prettyPhoto\/light_square\/btnNext.png": {
 		"ft": 32768,
-		"iS": 1411,
+		"iS": 932,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/light_square\/btnNext.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/light_square\/btnPrevious.png": {
 		"ft": 32768,
-		"iS": 1442,
+		"iS": 944,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/light_square\/btnPrevious.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/light_square\/default_thumbnail.gif": {
 		"ft": 4194304,
-		"iS": 227,
+		"iS": 219,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/light_square\/default_thumbnail.gif",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/light_square\/loader.gif": {
 		"ft": 4194304,
-		"iS": 2545,
+		"iS": 2506,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/light_square\/loader.gif",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/prettyPhoto\/light_square\/sprite.png": {
 		"ft": 32768,
-		"iS": 3507,
+		"iS": 1994,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/light_square\/sprite.png",
 		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/ribon_one.png": {
-		"ft": 32768,
-		"iS": 3295,
-		"oA": 0,
-		"oAP": "\/docs\/images\/ribon_one.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/ribon_two.png": {
-		"ft": 32768,
-		"iS": 3028,
-		"oA": 0,
-		"oAP": "\/docs\/images\/ribon_two.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/search_icon.png": {
-		"ft": 32768,
-		"iS": 1254,
-		"oA": 0,
-		"oAP": "\/docs\/images\/search_icon.png",
-		"oF": 0,
 		"opt": 0
-		},
-	"\/source\/images\/service\/client1.png": {
-		"ft": 32768,
-		"iS": 42873,
-		"oA": 0,
-		"oAP": "\/docs\/images\/service\/client1.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/service\/client2.png": {
-		"ft": 32768,
-		"iS": 47084,
-		"oA": 0,
-		"oAP": "\/docs\/images\/service\/client2.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/service\/client3.png": {
-		"ft": 32768,
-		"iS": 45014,
-		"oA": 0,
-		"oAP": "\/docs\/images\/service\/client3.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/service\/image_bg.png": {
-		"ft": 32768,
-		"iS": 3257,
-		"oA": 0,
-		"oAP": "\/docs\/images\/service\/image_bg.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/service\/logo.png": {
-		"ft": 32768,
-		"iS": 5601,
-		"oA": 0,
-		"oAP": "\/docs\/images\/service\/logo.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/services\/bg_services.jpg": {
-		"ft": 16384,
-		"iS": 35942,
-		"oA": 0,
-		"oAP": "\/docs\/images\/services\/bg_services.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/source\/images\/services\/bg_services.png": {
-		"ft": 32768,
-		"iS": 1072984,
-		"oA": 0,
-		"oAP": "\/docs\/images\/services\/bg_services.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/services\/services1.png": {
-		"ft": 32768,
-		"iS": 6054,
-		"oA": 0,
-		"oAP": "\/docs\/images\/services\/services1.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/services\/services2.png": {
-		"ft": 32768,
-		"iS": 8305,
-		"oA": 0,
-		"oAP": "\/docs\/images\/services\/services2.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/services\/services3.png": {
-		"ft": 32768,
-		"iS": 8125,
-		"oA": 0,
-		"oAP": "\/docs\/images\/services\/services3.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/services\/services4.png": {
-		"ft": 32768,
-		"iS": 4601,
-		"oA": 0,
-		"oAP": "\/docs\/images\/services\/services4.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/services\/services5.png": {
-		"ft": 32768,
-		"iS": 6789,
-		"oA": 0,
-		"oAP": "\/docs\/images\/services\/services5.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/services\/services6.png": {
-		"ft": 32768,
-		"iS": 7264,
-		"oA": 0,
-		"oAP": "\/docs\/images\/services\/services6.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/services\/slider-bg.png": {
-		"ft": 32768,
-		"iS": 1685033,
-		"oA": 0,
-		"oAP": "\/docs\/images\/services\/slider-bg.png",
-		"oF": 0,
-		"opt": 1
 		},
 	"\/source\/images\/slider\/bg1.jpg": {
 		"ft": 16384,
-		"iS": 155843,
+		"iS": 148856,
 		"oA": 0,
 		"oAP": "\/docs\/images\/slider\/bg1.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/slider\/bg2.jpg": {
 		"ft": 16384,
-		"iS": 177372,
+		"iS": 166885,
 		"oA": 0,
 		"oAP": "\/docs\/images\/slider\/bg2.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/source\/images\/slider\/bg3.jpg": {
 		"ft": 16384,
-		"iS": 185460,
+		"iS": 2963836,
 		"oA": 0,
 		"oAP": "\/docs\/images\/slider\/bg3.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/slider\/img1.png": {
-		"ft": 32768,
-		"iS": 250057,
-		"oA": 0,
-		"oAP": "\/docs\/images\/slider\/img1.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/slider\/img2.png": {
-		"ft": 32768,
-		"iS": 293187,
-		"oA": 0,
-		"oAP": "\/docs\/images\/slider\/img2.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/slider\/img3.png": {
-		"ft": 32768,
-		"iS": 290134,
-		"oA": 0,
-		"oAP": "\/docs\/images\/slider\/img3.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/slider_one.jpg": {
-		"ft": 16384,
-		"iS": 196223,
-		"oA": 0,
-		"oAP": "\/docs\/images\/slider_one.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/tab1.png": {
-		"ft": 32768,
-		"iS": 82244,
-		"oA": 0,
-		"oAP": "\/docs\/images\/tab1.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/tab2.png": {
-		"ft": 32768,
-		"iS": 90344,
-		"oA": 0,
-		"oAP": "\/docs\/images\/tab2.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/team-member.jpg": {
-		"ft": 16384,
-		"iS": 28790,
-		"oA": 0,
-		"oAP": "\/docs\/images\/team-member.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/source\/images\/testimonials1.png": {
-		"ft": 32768,
-		"iS": 10942,
-		"oA": 0,
-		"oAP": "\/docs\/images\/testimonials1.png",
 		"oF": 0,
 		"opt": 1
 		},
@@ -1256,6 +1026,14 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/source\/includes\/_events-listing.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/docs\/includes\/_events-listing.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/source\/includes\/_favicon.pug": {
 		"cOD": 1,
 		"ft": 512,
@@ -1288,6 +1066,14 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/source\/includes\/_maconery-grid-4.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/docs\/includes\/_maconery-grid-4.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/source\/includes\/_main-slider.pug": {
 		"cOD": 1,
 		"ft": 512,
@@ -1309,6 +1095,14 @@
 		"ft": 512,
 		"oA": 1,
 		"oAP": "\/docs\/includes\/_middle.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/source\/includes\/_mixins.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/docs\/includes\/_mixins.html",
 		"oF": 0,
 		"oS": 0
 		},

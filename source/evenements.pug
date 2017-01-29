@@ -1,0 +1,29 @@
+doctype html
+html(lang="fr")
+head
+  include includes/_meta.pug
+  title Onatty Kreasyon
+
+  include includes/_css.pug
+
+  include includes/_head-scripts.pug
+
+  include includes/_favicon.pug
+  body.homepage
+
+    header#header
+
+      include includes/_top-bar.pug
+
+      include includes/_navbar.pug
+
+    section.evenements
+      include includes/_events-listing.pug
+
+    section#bottom
+      include includes/_bottom.pug
+
+    footer#footer.midnight-blue
+      include includes/_footer.pug
+
+    include includes/_scripts.pug
