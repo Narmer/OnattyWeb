@@ -1026,14 +1026,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/source\/includes\/_bottom.pug": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 1,
-		"oAP": "\/docs\/includes\/_bottom.html",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/source\/includes\/_contact-info.pug": {
 		"cOD": 1,
 		"ft": 512,
@@ -1191,6 +1183,14 @@
 		"ft": 512,
 		"oA": 1,
 		"oAP": "\/docs\/includes\/_services.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/source\/includes\/_sub-footer.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/docs\/includes\/_sub-footer.html",
 		"oF": 0,
 		"oS": 0
 		},

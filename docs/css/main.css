@@ -1448,117 +1448,54 @@ ul.social_icons li a i {
   margin-right: 15px;
 }
 
-/***********************
-****Service page css****
-***********************/
-.services {
-  padding: 0;
-}
-
-.get-started {
-  background: none repeat scroll 0 0 #F3F3F3;
-  border-radius: 3px;
-  padding-bottom: 30px;
-  position: relative;
-  margin-bottom: 18px;
-  margin-top: 60px;
-}
-
-.get-started h2 {
+/***************
+**** Footer ****
+***************/
+footer {
+  background: #111;
+  color: #fff;
   padding-top: 30px;
+}
+
+footer h2,
+footer h3 {
+  color: #fff;
   margin-bottom: 20px;
 }
 
-.request {
-  bottom: -15px;
-  left: 50%;
-  position: absolute;
-  margin-left: -110px;
+footer .widget {
+  border: none !important;
+  margin: 0;
 }
 
-.request h4 {
-  position: absolute;
-  width: 220px;
-  position: relative;
+footer .widget ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-.request h4 a {
-  background: #ffd700;
-  color: #fff;
-  font-size: 14px;
-  font-weight: normal;
-  border-radius: 3px;
-  padding: 5px 15px;
+.list-border-bottom li {
+  border-bottom: solid 1px rgba(255, 255, 255, 0.1);
+  padding-bottom: 10px;
+  margin-bottom: 10px;
 }
 
-.request h4:after {
-  border-color: #ffd700 transparent transparent;
-  border-style: solid;
-  border-width: 12px;
-  bottom: -18px;
-  content: "";
-  height: 0;
-  position: absolute;
-  right: 13px;
-  z-index: -99999;
+.list-border-bottom li:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
 }
 
-.request h4:before {
-  border-color: #ffd700 transparent transparent;
-  border-style: solid;
-  border-width: 12px;
-  bottom: -18px;
-  content: "";
-  height: 0;
-  left: 13px;
-  position: absolute;
-  z-index: -99999;
+.id-color {
+  color: #ffd700;
 }
 
-.clients-area {
-  padding: 60px;
+.textwidget {
+  box-sizing: border-box;
 }
 
-.clients-comments {
-  background-image: url("../images/image_bg.png");
-  background-position: center 118px;
-  background-repeat: no-repeat;
-  margin-bottom: 100px;
-}
-
-.clients-comments img {
-  background: #DDDDDD;
-  border: 1px solid #DDDDDD;
-  height: 182px;
-  padding: 3px;
-  width: 182px;
-  transition: all 0.9s ease 0s;
-  -moz-transition: all 0.9s ease 0s;
-  -webkit-transition: all 0.9s ease 0s;
-  -o-transition: all 0.9s ease 0s;
-}
-
-.clients-comments h3 {
-  margin-top: 55px;
-  font-weight: 300;
-  padding: 0 40px;
-}
-
-.clients-comments h4 {
-  font-weight: 300;
-  margin-top: 15px;
-}
-
-.clients-comments h4 span {
-  font-weight: 700;
-  font-style: oblique;
-}
-
-.footer {
-  background: none repeat scroll 0 0 #2E2E2E;
-  border-top: 5px solid #ffd700;
-  height: 84px;
-  margin-top: 110px;
+.box-border {
+  border: solid 3px #ffd700;
+  padding: 20px;
 }
 
 .footer_left {
@@ -1569,6 +1506,23 @@ ul.social_icons li a i {
   color: #FFFFFF;
   font-size: 12px;
   margin-top: 15px;
+}
+
+.subfooter {
+  background: #151515;
+  border-top: 3px solid #ffd700;
+  height: 84px;
+  margin-top: 40px;
+  padding: 30px 0;
+  color: #fff;
+}
+
+.subfooter a:link, .subfooter a:visited {
+  color: #fff;
+}
+
+.subfooter a:hover, .subfooter a:active {
+  color: #ffd700;
 }
 
 /*************************
