@@ -624,6 +624,62 @@ input.search-form:hover {
   opacity: 0.7;
 }
 
+/*****************
+**** Openings ****
+*****************/
+.dark-section {
+  background-color: rgba(0, 0, 0, 0.93);
+}
+
+.dark-section h2,
+.dark-section h3 {
+  color: #ffd700;
+}
+
+.dark-section h4,
+.dark-section p,
+.dark-section span {
+  color: #fff;
+}
+
+.dark-section h4 {
+  text-transform: uppercase;
+}
+
+.on-content-title {
+  float: left;
+  width: 100%;
+  margin-bottom: 8px;
+}
+
+.on-content-title h3 {
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0.5px;
+  line-height: 1.5;
+  margin: 0px 0px 8px 0px;
+  text-transform: uppercase;
+}
+
+.on-opining-hour {
+  float: left;
+  width: 100%;
+}
+
+.on-opining-hour ul li {
+  list-style: none;
+  margin-bottom: 30px;
+}
+
+.opining-hout-wrap {
+  float: left;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  border: 1px solid #ffd700;
+  text-align: center;
+  padding: 20px 8px;
+}
+
 #services {
   background: #000 url(../images/services/bg_services.png);
   background-size: cover;

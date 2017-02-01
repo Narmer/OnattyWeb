@@ -116,11 +116,27 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-1-thumb.jpg": {
+		"ft": 16384,
+		"iS": 88454,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-1-thumb.jpg",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-1.jpg": {
 		"ft": 16384,
 		"iS": 161950,
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-1.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-2-thumb.jpg": {
+		"ft": 16384,
+		"iS": 83487,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-2-thumb.jpg",
 		"oF": 0,
 		"opt": 1
 		},
@@ -132,11 +148,27 @@
 		"oF": 0,
 		"opt": 1
 		},
+	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-3-thumb.jpg": {
+		"ft": 16384,
+		"iS": 46737,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-3-thumb.jpg",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-3.jpg": {
 		"ft": 16384,
 		"iS": 169419,
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-3.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-4-thumb.jpg": {
+		"ft": 16384,
+		"iS": 126602,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-4-thumb.jpg",
 		"oF": 0,
 		"opt": 1
 		},
@@ -1111,6 +1143,14 @@
 		"ft": 512,
 		"oA": 1,
 		"oAP": "\/docs\/includes\/_navbar.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/source\/includes\/_openings.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/docs\/includes\/_openings.html",
 		"oF": 0,
 		"oS": 0
 		},
