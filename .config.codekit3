@@ -930,6 +930,14 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/source\/includes\/_prices.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/docs\/includes\/_prices.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/source\/includes\/_pricing.pug": {
 		"cOD": 1,
 		"ft": 512,
@@ -959,6 +967,14 @@
 		"ft": 512,
 		"oA": 1,
 		"oAP": "\/docs\/includes\/_services.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/source\/includes\/_slider-bottom.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/docs\/includes\/_slider-bottom.html",
 		"oF": 0,
 		"oS": 0
 		},

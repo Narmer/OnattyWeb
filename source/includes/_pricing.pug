@@ -1,72 +1,43 @@
 .container
   .center.wow.fadeInDown
     h2.text-center Nos Tarifs
+  include ./_prices.pug
+
   .row
     .col-sm-12
-      .table-responsive
-        table.table.table-condensed.table-striped.table-hover.m-b-0
-          thead
-            tr
-              th Prestations
-              th Tarifs adultes
-              th Tarifs enfants
-          tbody
-            tr
-              td Diagnostique
-              td.text-center Gratuit
-              td.text-center Gratuit
-            tr
-              td Départ locks
-              td
-              td
-            tr.text-center
-              td Courts
-              td 80€
-              td 70€
-            tr.text-center
-              td Mi-longs
-              td 85€
-              td —
-            tr.text-center
-              td Longs
-              td 90€
-              td —
-            tr
-              td Resserage des racines
-              td
-              td
-            tr.text-center
-              td Twist & coiffure simple
-              td 60€
-              td 50€
-            tr.text-center
-              td Latching & coiffure
-              td 75€
-              td 60€
-            tr
-              td Coiffures
-              td
-              td
-            tr.text-center
-              td Styling locks
-              td à partir de 15€
-              td à partir de 10€
-            tr.text-center
-              td Vanilles
-              td à partir de 65€
-              td à partir de 65€
-            tr.text-center
-              td Cheveux naturels
-              td à partir de 25€
-              td à partir de 15€
+      p En aparté, après un diagnostic de l'état général de vos locks nous choisissons les soins et la technique la mieux adaptée pour votre entretien.
+        Plusieurs techniques permettent de resserer les locks:
+      p La reprise en twist est la méthode la plus simple et la moins fragilisante dès que vos locks deviennent matures. Elle permet à l'aide d'un gel et d'un peigne  (à base de produit naturel) de fixer la locks et de rafraichir son allure.
+
+      p Le palm rooling permet de réguler l'aspect de la dread , elle a une action sur la racine mais aussi sur les longueurs.
+
+      p Le latching est la technique qui permet de fixer plus longuement les racines certe mais elle reste neamoins en fonction du type de cheveux celle qui affaiblit le plus vos dreads.
+        Lorsque l'on opte pour cette technique , on doit veiller à ce que les locks soient saines et n'accumulent pas de residus qui risque au fil du temps de les affiner.
+
+      h3 Nos Soins
+      p Généralement, le soin vapeur s'associe avec un bain d'huile ( avocat, jojoba , abyssinie etc....)
+
+      h3 Efficacité :
+      ul
+        li Ouvre les pores du cuir chevelu, dilate les écailles du cheveu et permet ainsi  une meilleure  pénétration des produits
+        li favorise le ralentissement des chutes de cheveux
+        li redonne de la vitalité aux tiges pilaires
+        li nettoie en profondeur les locks et aide à lutter contre la poussière incrustée.
+      p Apres chaque soins vapeurs vos locks retrouvent leur brillance absolu. Nous conseillons ce soins 2 à 3 fois par an.
+      p Le shampoing est une étape importante , nous avons donc choisi les meilleurs produits pour soigner vos locks. Nos shampoings clarifiants de la gamme TAliah Waajid et Nappy Queen sont les incontournables pour bien nettoyer les locks. Nous utilisons également les soins nutritifs de la gamme karacare Naturals textures;
+      p Le styling ( coiffure ), l'art de sublimer vos dreads est le plus apprécié de tous. Nous réalisons en tenant compte de la forme de votre visage la coiffure tendance qui saura vous faire scintiller !!!
+
+      p.lead A vos rdvs !!
+  .row
+
     .col-sm-12
       .pricing-container
         .pricing-single.wow.fadeIn
           .clearfix
-            .col-sm-6.plan-name
+            .col-sm-5.plan-name
               h3 Forfait #1
               p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam est, varius eu metus vel, placerat pretium urna. Duis neque arcu, pretium sed imperdiet.
-            .col-sm-3.plan-list
+            .col-sm-4.plan-list
               ul.list-unstyled
                 li Shampoing
                 li Soin
@@ -78,25 +49,25 @@
 
         .pricing-single.wow.fadeIn
           .clearfix
-            .col-sm-6.plan-name
+            .col-sm-5.plan-name
               h3 Forfait #2
               p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam est, varius eu metus vel, placerat pretium urna. Duis neque arcu, pretium sed imperdiet.
-            .col-sm-3.plan-list
+            .col-sm-4.plan-list
               ul.list-unstyled
                 li Shampoing
                 li Soin
                 li Crochet
                 li Coiffure simple
             .col-sm-3.plan-price
-              span.price €90
+              span.price €95
               a(href="//www.lsreservation.com/onatty" class="plan-buy-btn") Prendre rendez-vous
 
         .pricing-single.wow.fadeIn
           .clearfix
-            .col-sm-6.plan-name
+            .col-sm-5.plan-name
               h3 Forfait #3
               p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam est, varius eu metus vel, placerat pretium urna. Duis neque arcu, pretium sed imperdiet.
-            .col-sm-3.plan-list.plan-list2
+            .col-sm-4.plan-list.plan-list2
               ul.list-unstyled
                 li Soins vapeurs
                 li Bain d'huile
@@ -104,34 +75,35 @@
                 li Raffraichissement
                 li Style
             .col-sm-3.plan-price
-              span.price €35
+              span.price €40
               a(href="//www.lsreservation.com/onatty" class="plan-buy-btn") Prendre rendez-vous
 
         .pricing-single.wow.fadeIn
           .clearfix
-            .col-sm-6.plan-name
+            .col-sm-5.plan-name
               h3 Forfait #4
               p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam est, varius eu metus vel, placerat pretium urna. Duis neque arcu, pretium sed imperdiet.
-            .col-sm-3.plan-list
+            .col-sm-4.plan-list
               ul.list-unstyled
                 li Soin personnalisé
                 li (Regroupant les forfaits 1 & 2)
             .col-sm-3.plan-price
-              span.price €95
+              span.price €100
               a(href="//www.lsreservation.com/onatty" class="plan-buy-btn") Prendre rendez-vous
 
         .pricing-single.wow.fadeIn
           .clearfix
-            .col-sm-6.plan-name
-              h3 Forfait #5
-              p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam est, varius eu metus vel, placerat pretium urna. Duis neque arcu, pretium sed imperdiet.
-            .col-sm-3.plan-list
+            .col-sm-5.plan-name
+              h3 Forfait Mariage
+              p Pour le plus beau jour de votre vie , nous travaillons avec vous en étroite collaboration avec vous afin de trouver la coiffure idéale qui vous sublimera.
+            .col-sm-4.plan-list.plan-list2
               ul.list-unstyled
-                li Soins
-                li Shampoing sur cheveu crépu
-                li Lorem ipsum dolor sit amet
-                li Lorem ipsum dolor sit amet
+                li Diagnostic
+                li Essai coiffure (1h30)
+                li Forfait #
+                li Déplacement le jour de la cérémonie
+                li Coiffure Mariage
             .col-sm-3.plan-price
-              span A partir de
-              span.price €65
+              //-span A partir de
+              span.price €200
               a(href="//www.lsreservation.com/onatty" class="plan-buy-btn") Prendre rendez-vous
