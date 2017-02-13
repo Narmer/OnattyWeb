@@ -250,43 +250,75 @@
 		"oF": 0,
 		"opt": 1
 		},
-	"\/source\/images\/partners\/partner1.png": {
-		"ft": 32768,
-		"iS": 2852,
+	"\/source\/images\/partners\/bellevilloise-noir-logo.jpg": {
+		"ft": 16384,
+		"iS": 16951,
 		"oA": 0,
-		"oAP": "\/docs\/images\/partners\/partner1.png",
+		"oAP": "\/docs\/images\/partners\/bellevilloise-noir-logo.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/source\/images\/partners\/partner2.png": {
-		"ft": 32768,
-		"iS": 6031,
+	"\/source\/images\/partners\/carre-black-beaute.jpg": {
+		"ft": 16384,
+		"iS": 10021,
 		"oA": 0,
-		"oAP": "\/docs\/images\/partners\/partner2.png",
+		"oAP": "\/docs\/images\/partners\/carre-black-beaute.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/source\/images\/partners\/partner3.png": {
-		"ft": 32768,
-		"iS": 7552,
+	"\/source\/images\/partners\/ciluw-creations.jpg": {
+		"ft": 16384,
+		"iS": 5420,
 		"oA": 0,
-		"oAP": "\/docs\/images\/partners\/partner3.png",
+		"oAP": "\/docs\/images\/partners\/ciluw-creations.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/source\/images\/partners\/debaz-logo.jpg": {
+		"ft": 16384,
+		"iS": 2768,
+		"oA": 0,
+		"oAP": "\/docs\/images\/partners\/debaz-logo.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/source\/images\/partners\/partner4.png": {
-		"ft": 32768,
-		"iS": 3897,
+	"\/source\/images\/partners\/djenowa-logo.jpg": {
+		"ft": 16384,
+		"iS": 7441,
 		"oA": 0,
-		"oAP": "\/docs\/images\/partners\/partner4.png",
+		"oAP": "\/docs\/images\/partners\/djenowa-logo.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/source\/images\/partners\/partner5.png": {
-		"ft": 32768,
-		"iS": 9692,
+	"\/source\/images\/partners\/francaises-ethniques-logo.jpg": {
+		"ft": 16384,
+		"iS": 6909,
 		"oA": 0,
-		"oAP": "\/docs\/images\/partners\/partner5.png",
+		"oAP": "\/docs\/images\/partners\/francaises-ethniques-logo.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/partners\/m-crea-style-logo.jpg": {
+		"ft": 16384,
+		"iS": 37167,
+		"oA": 0,
+		"oAP": "\/docs\/images\/partners\/m-crea-style-logo.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/partners\/nappy-queen.jpg": {
+		"ft": 16384,
+		"iS": 8707,
+		"oA": 0,
+		"oAP": "\/docs\/images\/partners\/nappy-queen.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/source\/images\/partners\/paris-love-locks.jpg": {
+		"ft": 16384,
+		"iS": 8718,
+		"oA": 0,
+		"oAP": "\/docs\/images\/partners\/paris-love-locks.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -295,6 +327,14 @@
 		"iS": 598947,
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/partner_bg.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/source\/images\/partners\/rawatan-wax-creations.jpg": {
+		"ft": 16384,
+		"iS": 5469,
+		"oA": 0,
+		"oAP": "\/docs\/images\/partners\/rawatan-wax-creations.jpg",
 		"oF": 0,
 		"opt": 1
 		},
