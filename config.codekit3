@@ -291,6 +291,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/docs\/images\/partners\/ciluw-creations.jpg": {
+		"ft": 16384,
+		"iS": 2222,
+		"oA": 0,
+		"oAP": "\/docs\/images\/partners\/ciluw-creations.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/docs\/images\/partners\/debaz-logo.jpg": {
 		"ft": 16384,
 		"iS": 2146,
@@ -344,6 +352,14 @@
 		"iS": 102378,
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/partner_bg.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/docs\/images\/partners\/rawatan-wax-creations.jpg": {
+		"ft": 16384,
+		"iS": 4527,
+		"oA": 0,
+		"oAP": "\/docs\/images\/partners\/rawatan-wax-creations.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -929,12 +945,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/source\/404.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/404.html",
-		"oF": 0
-		},
 	"\/source\/css\/animate.min.css": {
 		"aP": 0,
 		"bl": 0,
@@ -1174,6 +1184,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/source\/images\/partners\/ciluw-creations.jpg": {
+		"ft": 16384,
+		"iS": 5015,
+		"oA": 0,
+		"oAP": "\/source\/images\/partners\/ciluw-creations.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/source\/images\/partners\/debaz-logo.jpg": {
 		"ft": 16384,
 		"iS": 2768,
@@ -1229,6 +1247,14 @@
 		"oAP": "\/source\/images\/partners\/partner_bg.jpg",
 		"oF": 0,
 		"opt": 1
+		},
+	"\/source\/images\/partners\/rawatan-wax-creations.jpg": {
+		"ft": 16384,
+		"iS": 7499,
+		"oA": 0,
+		"oAP": "\/source\/images\/partners\/rawatan-wax-creations.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/source\/images\/portfolio\/full\/photo1.jpg": {
 		"ft": 16384,
@@ -1926,18 +1952,12 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/source\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/index.html",
-		"oF": 0
-		},
 	"\/source\/index.pug": {
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
-		"oAP": "\/source\/index.html",
-		"oF": 0,
+		"oAP": "\/docs\/index.html",
+		"oF": 2,
 		"oS": 0
 		},
 	"\/source\/js\/bootstrap.min.js": {
@@ -2011,12 +2031,6 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
-		},
-	"\/source\/portfolio.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/portfolio.html",
-		"oF": 0
 		}
 	},
 "hooks": [
