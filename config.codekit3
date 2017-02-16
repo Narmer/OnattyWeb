@@ -259,6 +259,14 @@
 		"oAP": "\/docs\/images\/ico\/favicon.ico",
 		"oF": 0
 		},
+	"\/docs\/images\/intro-bg.jpg": {
+		"ft": 16384,
+		"iS": 103965,
+		"oA": 0,
+		"oAP": "\/docs\/images\/intro-bg.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/docs\/images\/logo.png": {
 		"ft": 32768,
 		"iS": 16098,
@@ -1032,16 +1040,16 @@
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
-		"oAP": "\/source\/evenements.html",
-		"oF": 0,
+		"oAP": "\/docs\/evenements.html",
+		"oF": 2,
 		"oS": 0
 		},
 	"\/source\/fashion-hair-show-2015.pug": {
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
-		"oAP": "\/source\/fashion-hair-show-2015.html",
-		"oF": 0,
+		"oAP": "\/docs\/fashion-hair-show-2015.html",
+		"oF": 2,
 		"oS": 0
 		},
 	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-1-thumb.jpg": {
@@ -1887,6 +1895,14 @@
 		"ft": 512,
 		"oA": 1,
 		"oAP": "\/source\/includes\/_mixins.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/source\/includes\/_navbar-2.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/source\/includes\/_navbar-2.html",
 		"oF": 0,
 		"oS": 0
 		},
