@@ -299,11 +299,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/docs\/images\/partners\/debaz-logo.jpg": {
+	"\/docs\/images\/partners\/debaz.jpg": {
 		"ft": 16384,
-		"iS": 2146,
+		"iS": 4086,
 		"oA": 0,
-		"oAP": "\/docs\/images\/partners\/debaz-logo.jpg",
+		"oAP": "\/docs\/images\/partners\/debaz.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1192,12 +1192,12 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/source\/images\/partners\/debaz-logo.jpg": {
+	"\/source\/images\/partners\/debaz.jpg": {
 		"ft": 16384,
-		"iS": 2768,
-		"oA": 0,
-		"oAP": "\/source\/images\/partners\/debaz-logo.jpg",
-		"oF": 0,
+		"iS": 4086,
+		"oA": 2,
+		"oAP": "\/source\/images\/partners\/debaz.jpg",
+		"oF": 1,
 		"opt": 0
 		},
 	"\/source\/images\/partners\/djenowa-logo.jpg": {
@@ -1821,6 +1821,14 @@
 		"ft": 512,
 		"oA": 1,
 		"oAP": "\/source\/includes\/_head-scripts.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/source\/includes\/_intro.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/source\/includes\/_intro.html",
 		"oF": 0,
 		"oS": 0
 		},
