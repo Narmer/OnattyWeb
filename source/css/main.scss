@@ -672,17 +672,6 @@ input.search-form:hover {
   opacity: 0.7;
 }
 
-/*
-Intro
-*/
-.wpb_row.vc_row-flex .row {
-  box-sizing: border-box;
-  display: flex;
-  flex-wrap: wrap;
-  display: -webkit-flex;
-  display: -webkit-box;
-}
-
 /*****************
 **** Openings ****
 *****************/
@@ -1631,7 +1620,83 @@ textarea#message{
   margin-top: 20px;
 }
 
+/*
+Intro
+*/
+.wpb_row {
+  padding: 0;
+}
 
+.wpb_block1 {
+  background-color: #e2e2e2 !important;
+}
+
+.wpb_block2 {
+  background-image: url(../images/intro-bg.jpg);
+  .text {
+    p {
+      color: #fff;
+    }
+  }
+}
+
+.wpb_block3 {
+  background-color: #555;
+}
+
+.block-filter {
+  background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vc_row-flex .row {
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  display: -webkit-flex;
+  display: -webkit-box;
+}
+
+a.btn-line-white,
+.de_light a.btn-line-white {
+  border: solid 1px rgba(255, 255, 255, .5);
+  color: #fff;
+  border-radius: 0;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+}
+
+a.btn-big {
+  font-size: 14px;
+  color: #eceff3;
+  letter-spacing: 1px;
+  line-height: normal;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: solid 1px #fff;
+  padding: 10px 30px 10px 30px;
+}
+
+.vc_column_container {
+  display: flex;
+}
+
+.vc_column-inner {
+  box-sizing: border-box;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 100%;
+}
+
+.vc_custom {
+  padding-top: 40px !important;
+  padding-right: 40px !important;
+  padding-bottom: 40px !important;
+  padding-left: 55px !important;
+}
+
+.wpb_wrapper {
+  padding: 20px;
+}
 
 /******************
  404 page css

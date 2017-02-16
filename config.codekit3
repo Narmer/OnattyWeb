@@ -985,6 +985,16 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/source\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/source\/css\/main-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/source\/css\/main.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -993,8 +1003,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/source\/css\/main.css",
-		"oF": 0,
+		"oAP": "\/docs\/css\/main.css",
+		"oF": 2,
 		"oS": 1,
 		"uL": 1
 		},
@@ -1151,6 +1161,14 @@
 		"oA": 2,
 		"oAP": "\/source\/images\/ico\/favicon.ico",
 		"oF": 0
+		},
+	"\/source\/images\/intro-bg.jpg": {
+		"ft": 16384,
+		"iS": 114475,
+		"oA": 0,
+		"oAP": "\/docs\/images\/intro-bg.jpg",
+		"oF": 2,
+		"opt": 1
 		},
 	"\/source\/images\/logo.png": {
 		"ft": 32768,
