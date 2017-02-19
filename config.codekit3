@@ -103,43 +103,11 @@
 		"oAP": "\/docs\/fashion-hair-show-2015.html",
 		"oF": 0
 		},
-	"\/docs\/fashion-hair-style-2015.html": {
+	"\/docs\/fashion-hair-show-2016.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/docs\/fashion-hair-style-2015.html",
+		"oAP": "\/docs\/fashion-hair-show-2016.html",
 		"oF": 0
-		},
-	"\/docs\/images\/Events\/2015\/11080647_834378923282225_1004494066285727078_o.jpg": {
-		"ft": 16384,
-		"iS": 155756,
-		"oA": 0,
-		"oAP": "\/docs\/images\/Events\/2015\/11080647_834378923282225_1004494066285727078_o.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/docs\/images\/Events\/2015\/11147881_834379149948869_2917322610561343462_o.jpg": {
-		"ft": 16384,
-		"iS": 144432,
-		"oA": 0,
-		"oAP": "\/docs\/images\/Events\/2015\/11147881_834379149948869_2917322610561343462_o.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/docs\/images\/Events\/2015\/11224712_834379263282191_2717749744265038876_o.jpg": {
-		"ft": 16384,
-		"iS": 163344,
-		"oA": 0,
-		"oAP": "\/docs\/images\/Events\/2015\/11224712_834379263282191_2717749744265038876_o.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/docs\/images\/Events\/2015\/11426710_834379469948837_657978753134665770_o.jpg": {
-		"ft": 16384,
-		"iS": 166432,
-		"oA": 0,
-		"oAP": "\/docs\/images\/Events\/2015\/11426710_834379469948837_657978753134665770_o.jpg",
-		"oF": 0,
-		"opt": 0
 		},
 	"\/docs\/images\/Events\/2015\/fashion-hair-show-2015-1-thumb.jpg": {
 		"ft": 16384,
@@ -191,7 +159,7 @@
 		},
 	"\/docs\/images\/Events\/2015\/fashion-hair-show-2015-4-thumb.jpg": {
 		"ft": 16384,
-		"iS": 115619,
+		"iS": 186577,
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-4-thumb.jpg",
 		"oF": 0,
@@ -202,6 +170,118 @@
 		"iS": 166432,
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-1-thumb.jpg": {
+		"ft": 16384,
+		"iS": 84535,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-1-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-1.jpg": {
+		"ft": 16384,
+		"iS": 267789,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-2-thumb.jpg": {
+		"ft": 16384,
+		"iS": 38971,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-2-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-2.jpg": {
+		"ft": 16384,
+		"iS": 71539,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-3-thumb.jpg": {
+		"ft": 16384,
+		"iS": 72217,
+		"oA": 0,
+		"oAP": "\/fashion-hair-show-2016-3-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-3.jpg": {
+		"ft": 16384,
+		"iS": 405094,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-4-thumb.jpg": {
+		"ft": 16384,
+		"iS": 31068,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-4-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-4.png": {
+		"ft": 32768,
+		"iS": 772334,
+		"oA": 0,
+		"oAP": "\/fashion-hair-show-2016-4.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-5-thumb.jpg": {
+		"ft": 16384,
+		"iS": 55786,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-5-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-5.jpg": {
+		"ft": 16384,
+		"iS": 322390,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-6-thumb.jpg": {
+		"ft": 16384,
+		"iS": 97397,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-6-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-6.jpg": {
+		"ft": 16384,
+		"iS": 104943,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-8-thumb.jpg": {
+		"ft": 16384,
+		"iS": 60927,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-8-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-8.jpg": {
+		"ft": 16384,
+		"iS": 552986,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-8.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1052,6 +1132,14 @@
 		"oF": 2,
 		"oS": 0
 		},
+	"\/source\/fashion-hair-show-2016.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/docs\/fashion-hair-show-2016.html",
+		"oF": 2,
+		"oS": 0
+		},
 	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-1-thumb.jpg": {
 		"ft": 16384,
 		"iS": 88454,
@@ -1114,6 +1202,134 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/Events\/2015\/fashion-hair-show-2015-4.jpg",
 		"oF": 0,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-1-thumb.jpg": {
+		"ft": 16384,
+		"iS": 96036,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-1-thumb.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-1.jpg": {
+		"ft": 16384,
+		"iS": 274912,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-1.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-2-thumb.jpg": {
+		"ft": 16384,
+		"iS": 45944,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-2-thumb.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-2.jpg": {
+		"ft": 16384,
+		"iS": 73010,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-2.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-3-thumb.jpg": {
+		"ft": 16384,
+		"iS": 79758,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-3-thumb.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-3.jpg": {
+		"ft": 16384,
+		"iS": 430224,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-3.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-4-thumb.jpg": {
+		"ft": 16384,
+		"iS": 36475,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-4-thumb.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-4.png": {
+		"ft": 32768,
+		"iS": 791568,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-4.png",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-5-thumb.jpg": {
+		"ft": 16384,
+		"iS": 62616,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-5-thumb.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-5.jpg": {
+		"ft": 16384,
+		"iS": 344858,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-5.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-6-thumb.jpg": {
+		"ft": 16384,
+		"iS": 105717,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-6-thumb.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-6.jpg": {
+		"ft": 16384,
+		"iS": 111560,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-6.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-7-thumb.jpg": {
+		"ft": 16384,
+		"iS": 159893,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-7-thumb.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-7.jpg": {
+		"ft": 16384,
+		"iS": 403371,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-7.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-8-thumb.jpg": {
+		"ft": 16384,
+		"iS": 70079,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-8-thumb.jpg",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-8.jpg": {
+		"ft": 16384,
+		"iS": 586744,
+		"oA": 0,
+		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-8.jpg",
+		"oF": 2,
 		"opt": 1
 		},
 	"\/source\/images\/Events\/fashion-hair-show-2015.jpg": {
@@ -1863,6 +2079,14 @@
 		"ft": 512,
 		"oA": 1,
 		"oAP": "\/source\/includes\/_maconery-grid-4.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/source\/includes\/_maconery-grid-8.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/source\/includes\/_maconery-grid-8.html",
 		"oF": 0,
 		"oS": 0
 		},
@@ -3899,10 +4123,10 @@
 	"languageDefaultsJPG": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.jpg",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "",
-		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathRelativePath": "docs",
+		"autoOutputPathReplace1": "sources",
+		"autoOutputPathReplace2": "docs",
+		"autoOutputPathStyle": 3
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -3995,7 +4219,7 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 1
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
