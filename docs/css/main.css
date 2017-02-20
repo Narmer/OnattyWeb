@@ -951,6 +951,11 @@ input.search-form:hover {
   color: #ffd700;
 }
 
+.label-main {
+  background-color: #ffd700;
+  color: #404040;
+}
+
 /*************************
 ********* About Us Page CSS ******
 **************************/
