@@ -7,7 +7,7 @@
 		"uuidString": "AC590B92-C570-44E4-ADB7-CFE990B205B5"
 		}
 	],
-"creatorBuild": "25504",
+"creatorBuild": "25701",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -115,7 +115,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-1-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2015\/fashion-hair-show-2015-1.jpg": {
 		"ft": 16384,
@@ -123,7 +124,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2015\/fashion-hair-show-2015-2-thumb.jpg": {
 		"ft": 16384,
@@ -131,7 +133,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-2-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2015\/fashion-hair-show-2015-2.jpg": {
 		"ft": 16384,
@@ -139,7 +142,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2015\/fashion-hair-show-2015-3-thumb.jpg": {
 		"ft": 16384,
@@ -147,7 +151,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-3-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2015\/fashion-hair-show-2015-3.jpg": {
 		"ft": 16384,
@@ -155,7 +160,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-3.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2015\/fashion-hair-show-2015-4-thumb.jpg": {
 		"ft": 16384,
@@ -163,7 +169,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-4-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2015\/fashion-hair-show-2015-4.jpg": {
 		"ft": 16384,
@@ -171,7 +178,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2015\/fashion-hair-show-2015-4.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-1-thumb.jpg": {
 		"ft": 16384,
@@ -179,7 +187,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-1-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-1.jpg": {
 		"ft": 16384,
@@ -187,7 +196,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-2-thumb.jpg": {
 		"ft": 16384,
@@ -195,7 +205,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-2-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-2.jpg": {
 		"ft": 16384,
@@ -203,7 +214,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-3-thumb.jpg": {
 		"ft": 16384,
@@ -211,7 +223,8 @@
 		"oA": 0,
 		"oAP": "\/fashion-hair-show-2016-3-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-3.jpg": {
 		"ft": 16384,
@@ -219,7 +232,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-3.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-4-thumb.jpg": {
 		"ft": 16384,
@@ -227,15 +241,18 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-4-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-4.png": {
 		"ft": 32768,
 		"iS": 772334,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/fashion-hair-show-2016-4.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-5-thumb.jpg": {
 		"ft": 16384,
@@ -243,7 +260,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-5-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-5.jpg": {
 		"ft": 16384,
@@ -251,7 +269,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-5.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-6-thumb.jpg": {
 		"ft": 16384,
@@ -259,7 +278,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-6-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-6.jpg": {
 		"ft": 16384,
@@ -267,7 +287,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-6.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-7-thumb.jpg": {
 		"ft": 16384,
@@ -275,7 +296,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-7-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-7.jpg": {
 		"ft": 16384,
@@ -283,7 +305,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-7.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-8-thumb.jpg": {
 		"ft": 16384,
@@ -291,7 +314,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-8-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/2016\/fashion-hair-show-2016-8.jpg": {
 		"ft": 16384,
@@ -299,7 +323,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-8.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/fashion-hair-show-2015.jpg": {
 		"ft": 16384,
@@ -307,7 +332,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/fashion-hair-show-2015.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/Events\/fashion-hair-show-2016.jpg": {
 		"ft": 16384,
@@ -315,39 +341,48 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/fashion-hair-show-2016.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/ico\/apple-touch-icon-114-precomposed.png": {
 		"ft": 32768,
 		"iS": 11392,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/ico\/apple-touch-icon-114-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/ico\/apple-touch-icon-144-precomposed.png": {
 		"ft": 32768,
 		"iS": 16780,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/ico\/apple-touch-icon-144-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/ico\/apple-touch-icon-57-precomposed.png": {
 		"ft": 32768,
 		"iS": 4026,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/ico\/apple-touch-icon-57-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/ico\/apple-touch-icon-72-precomposed.png": {
 		"ft": 32768,
 		"iS": 5681,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/ico\/apple-touch-icon-72-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/ico\/favicon.ico": {
 		"ft": 8192,
@@ -361,15 +396,18 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/intro-bg.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/logo.png": {
 		"ft": 32768,
 		"iS": 16098,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/logo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/map\/adress-onatty1.jpg": {
 		"ft": 16384,
@@ -377,7 +415,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/map\/adress-onatty1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/partners\/bellevilloise-noir-logo.jpg": {
 		"ft": 16384,
@@ -385,7 +424,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/bellevilloise-noir-logo.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/partners\/carre-black-beaute.jpg": {
 		"ft": 16384,
@@ -393,7 +433,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/carre-black-beaute.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/partners\/ciluw-creations.jpg": {
 		"ft": 16384,
@@ -401,7 +442,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/ciluw-creations.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/partners\/debaz.jpg": {
 		"ft": 16384,
@@ -409,7 +451,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/debaz.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/partners\/djenowa-logo.jpg": {
 		"ft": 16384,
@@ -417,7 +460,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/djenowa-logo.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/partners\/francaises-ethniques-logo.jpg": {
 		"ft": 16384,
@@ -425,7 +469,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/francaises-ethniques-logo.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/partners\/m-crea-style-logo.jpg": {
 		"ft": 16384,
@@ -433,7 +478,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/m-crea-style-logo.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/partners\/nappy-queen.jpg": {
 		"ft": 16384,
@@ -441,7 +487,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/nappy-queen.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/partners\/paris-love-locks.jpg": {
 		"ft": 16384,
@@ -449,7 +496,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/paris-love-locks.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/partners\/partner_bg.jpg": {
 		"ft": 16384,
@@ -457,7 +505,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/partner_bg.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/partners\/rawatan-wax-creations.jpg": {
 		"ft": 16384,
@@ -465,7 +514,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/partners\/rawatan-wax-creations.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/full\/photo1.jpg": {
 		"ft": 16384,
@@ -473,7 +523,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/full\/photo1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/full\/photo10.jpg": {
 		"ft": 16384,
@@ -481,7 +532,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/full\/photo10.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/full\/photo11.jpg": {
 		"ft": 16384,
@@ -489,7 +541,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/full\/photo11.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/full\/photo12.jpg": {
 		"ft": 16384,
@@ -497,7 +550,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/full\/photo12.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/full\/photo2.jpg": {
 		"ft": 16384,
@@ -505,7 +559,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/full\/photo2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/full\/photo3.jpg": {
 		"ft": 16384,
@@ -513,7 +568,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/full\/photo3.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/full\/photo4.jpg": {
 		"ft": 16384,
@@ -521,7 +577,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/full\/photo4.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/full\/photo5.jpg": {
 		"ft": 16384,
@@ -529,7 +586,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/full\/photo5.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/full\/photo6.jpg": {
 		"ft": 16384,
@@ -537,7 +595,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/full\/photo6.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/full\/photo7.jpg": {
 		"ft": 16384,
@@ -545,7 +604,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/full\/photo7.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/full\/photo8.jpg": {
 		"ft": 16384,
@@ -553,7 +613,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/full\/photo8.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/full\/photo9.jpg": {
 		"ft": 16384,
@@ -561,7 +622,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/full\/photo9.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/recent\/photo1.jpg": {
 		"ft": 16384,
@@ -569,7 +631,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/recent\/photo1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/recent\/photo10.jpg": {
 		"ft": 16384,
@@ -577,7 +640,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/recent\/photo10.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/recent\/photo11.jpg": {
 		"ft": 16384,
@@ -585,7 +649,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/recent\/photo11.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/recent\/photo12.jpg": {
 		"ft": 16384,
@@ -593,7 +658,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/recent\/photo12.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/recent\/photo2.jpg": {
 		"ft": 16384,
@@ -601,7 +667,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/recent\/photo2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/recent\/photo3.jpg": {
 		"ft": 16384,
@@ -609,7 +676,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/recent\/photo3.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/recent\/photo4.jpg": {
 		"ft": 16384,
@@ -617,7 +685,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/recent\/photo4.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/recent\/photo5.jpg": {
 		"ft": 16384,
@@ -625,7 +694,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/recent\/photo5.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/recent\/photo6.jpg": {
 		"ft": 16384,
@@ -633,7 +703,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/recent\/photo6.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/recent\/photo7.jpg": {
 		"ft": 16384,
@@ -641,7 +712,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/recent\/photo7.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/recent\/photo8.jpg": {
 		"ft": 16384,
@@ -649,7 +721,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/recent\/photo8.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/portfolio\/recent\/photo9.jpg": {
 		"ft": 16384,
@@ -657,31 +730,38 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/portfolio\/recent\/photo9.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/dark_rounded\/btnNext.png": {
 		"ft": 32768,
 		"iS": 932,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_rounded\/btnNext.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/dark_rounded\/btnPrevious.png": {
 		"ft": 32768,
 		"iS": 944,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_rounded\/btnPrevious.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/dark_rounded\/contentPattern.png": {
 		"ft": 32768,
 		"iS": 117,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_rounded\/contentPattern.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/dark_rounded\/default_thumbnail.gif": {
 		"ft": 4194304,
@@ -702,34 +782,42 @@
 	"\/docs\/images\/prettyPhoto\/dark_rounded\/sprite.png": {
 		"ft": 32768,
 		"iS": 2327,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_rounded\/sprite.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/dark_square\/btnNext.png": {
 		"ft": 32768,
 		"iS": 932,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_square\/btnNext.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/dark_square\/btnPrevious.png": {
 		"ft": 32768,
 		"iS": 944,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_square\/btnPrevious.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/dark_square\/contentPattern.png": {
 		"ft": 32768,
 		"iS": 109,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_square\/contentPattern.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/dark_square\/default_thumbnail.gif": {
 		"ft": 4194304,
@@ -750,18 +838,22 @@
 	"\/docs\/images\/prettyPhoto\/dark_square\/sprite.png": {
 		"ft": 32768,
 		"iS": 1994,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/dark_square\/sprite.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/default\/default_thumb.png": {
 		"ft": 32768,
 		"iS": 1268,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/default\/default_thumb.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/default\/loader.gif": {
 		"ft": 4194304,
@@ -774,90 +866,112 @@
 	"\/docs\/images\/prettyPhoto\/default\/sprite.png": {
 		"ft": 32768,
 		"iS": 4242,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/default\/sprite.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/default\/sprite_next.png": {
 		"ft": 32768,
 		"iS": 1175,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/default\/sprite_next.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/default\/sprite_prev.png": {
 		"ft": 32768,
 		"iS": 1173,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/default\/sprite_prev.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/default\/sprite_x.png": {
 		"ft": 32768,
 		"iS": 1067,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/default\/sprite_x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/default\/sprite_y.png": {
 		"ft": 32768,
 		"iS": 1073,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/default\/sprite_y.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/facebook\/btnNext.png": {
 		"ft": 32768,
 		"iS": 492,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/facebook\/btnNext.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/facebook\/btnPrevious.png": {
 		"ft": 32768,
 		"iS": 492,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/facebook\/btnPrevious.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/facebook\/contentPatternBottom.png": {
 		"ft": 32768,
 		"iS": 125,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/facebook\/contentPatternBottom.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/facebook\/contentPatternLeft.png": {
 		"ft": 32768,
 		"iS": 118,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/facebook\/contentPatternLeft.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/facebook\/contentPatternRight.png": {
 		"ft": 32768,
 		"iS": 117,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/facebook\/contentPatternRight.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/facebook\/contentPatternTop.png": {
 		"ft": 32768,
 		"iS": 125,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/facebook\/contentPatternTop.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/facebook\/default_thumbnail.gif": {
 		"ft": 4194304,
@@ -878,26 +992,32 @@
 	"\/docs\/images\/prettyPhoto\/facebook\/sprite.png": {
 		"ft": 32768,
 		"iS": 2135,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/facebook\/sprite.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/light_rounded\/btnNext.png": {
 		"ft": 32768,
 		"iS": 932,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/light_rounded\/btnNext.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/light_rounded\/btnPrevious.png": {
 		"ft": 32768,
 		"iS": 944,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/light_rounded\/btnPrevious.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/light_rounded\/default_thumbnail.gif": {
 		"ft": 4194304,
@@ -918,26 +1038,32 @@
 	"\/docs\/images\/prettyPhoto\/light_rounded\/sprite.png": {
 		"ft": 32768,
 		"iS": 2301,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/light_rounded\/sprite.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/light_square\/btnNext.png": {
 		"ft": 32768,
 		"iS": 932,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/light_square\/btnNext.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/light_square\/btnPrevious.png": {
 		"ft": 32768,
 		"iS": 944,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/light_square\/btnPrevious.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/prettyPhoto\/light_square\/default_thumbnail.gif": {
 		"ft": 4194304,
@@ -958,10 +1084,12 @@
 	"\/docs\/images\/prettyPhoto\/light_square\/sprite.png": {
 		"ft": 32768,
 		"iS": 1994,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/prettyPhoto\/light_square\/sprite.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/images\/slider\/slide1.jpg": {
 		"ft": 16384,
@@ -969,7 +1097,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/slider\/slide1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/docs\/index.html": {
 		"ft": 8192,
@@ -1162,7 +1291,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/Events\/2015\/fashion-hair-show-2015-1-thumb.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-1.jpg": {
 		"ft": 16384,
@@ -1170,7 +1300,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/Events\/2015\/fashion-hair-show-2015-1.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-2-thumb.jpg": {
 		"ft": 16384,
@@ -1178,7 +1309,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/Events\/2015\/fashion-hair-show-2015-2-thumb.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-2.jpg": {
 		"ft": 16384,
@@ -1186,7 +1318,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/Events\/2015\/fashion-hair-show-2015-2.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-3-thumb.jpg": {
 		"ft": 16384,
@@ -1194,7 +1327,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/Events\/2015\/fashion-hair-show-2015-3-thumb.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-3.jpg": {
 		"ft": 16384,
@@ -1202,7 +1336,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/Events\/2015\/fashion-hair-show-2015-3.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-4-thumb.jpg": {
 		"ft": 16384,
@@ -1210,7 +1345,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/Events\/2015\/fashion-hair-show-2015-4-thumb.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2015\/fashion-hair-show-2015-4.jpg": {
 		"ft": 16384,
@@ -1218,7 +1354,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/Events\/2015\/fashion-hair-show-2015-4.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-1-thumb.jpg": {
 		"ft": 16384,
@@ -1226,7 +1363,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-1-thumb.jpg",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-1.jpg": {
 		"ft": 16384,
@@ -1234,7 +1372,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-1.jpg",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-2-thumb.jpg": {
 		"ft": 16384,
@@ -1242,7 +1381,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-2-thumb.jpg",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-2.jpg": {
 		"ft": 16384,
@@ -1250,7 +1390,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-2.jpg",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-3-thumb.jpg": {
 		"ft": 16384,
@@ -1258,7 +1399,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-3-thumb.jpg",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-3.jpg": {
 		"ft": 16384,
@@ -1266,7 +1408,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-3.jpg",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-4-thumb.jpg": {
 		"ft": 16384,
@@ -1274,15 +1417,18 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-4-thumb.jpg",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-4.png": {
 		"ft": 32768,
 		"iS": 791568,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-4.png",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-5-thumb.jpg": {
 		"ft": 16384,
@@ -1290,7 +1436,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-5-thumb.jpg",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-5.jpg": {
 		"ft": 16384,
@@ -1298,7 +1445,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-5.jpg",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-6-thumb.jpg": {
 		"ft": 16384,
@@ -1306,7 +1454,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-6-thumb.jpg",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-6.jpg": {
 		"ft": 16384,
@@ -1314,7 +1463,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-6.jpg",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-7-thumb.jpg": {
 		"ft": 16384,
@@ -1322,7 +1472,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-7-thumb.jpg",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-7.jpg": {
 		"ft": 16384,
@@ -1330,7 +1481,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-7.jpg",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-8-thumb.jpg": {
 		"ft": 16384,
@@ -1338,7 +1490,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-8-thumb.jpg",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/2016\/fashion-hair-show-2016-8.jpg": {
 		"ft": 16384,
@@ -1346,7 +1499,8 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/Events\/2016\/fashion-hair-show-2016-8.jpg",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/Events\/fashion-hair-show-2015.jpg": {
 		"ft": 16384,
@@ -1354,7 +1508,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/Events\/fashion-hair-show-2015.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/Events\/fashion-hair-show-2016.jpg": {
 		"ft": 16384,
@@ -1362,39 +1517,48 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/Events\/fashion-hair-show-2016.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/ico\/apple-touch-icon-114-precomposed.png": {
 		"ft": 32768,
 		"iS": 11392,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/ico\/apple-touch-icon-114-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/ico\/apple-touch-icon-144-precomposed.png": {
 		"ft": 32768,
 		"iS": 16780,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/ico\/apple-touch-icon-144-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/ico\/apple-touch-icon-57-precomposed.png": {
 		"ft": 32768,
 		"iS": 4026,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/ico\/apple-touch-icon-57-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/ico\/apple-touch-icon-72-precomposed.png": {
 		"ft": 32768,
 		"iS": 5681,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/ico\/apple-touch-icon-72-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/ico\/favicon.ico": {
 		"ft": 8192,
@@ -1408,15 +1572,18 @@
 		"oA": 0,
 		"oAP": "\/docs\/images\/intro-bg.jpg",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/logo.png": {
 		"ft": 32768,
 		"iS": 19265,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/logo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/map\/adress-onatty1.jpg": {
 		"ft": 16384,
@@ -1424,7 +1591,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/map\/adress-onatty1.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/partners\/bellevilloise-noir-logo.jpg": {
 		"ft": 16384,
@@ -1432,7 +1600,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/partners\/bellevilloise-noir-logo.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/partners\/carre-black-beaute.jpg": {
 		"ft": 16384,
@@ -1440,7 +1609,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/partners\/carre-black-beaute.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/partners\/ciluw-creations.jpg": {
 		"ft": 16384,
@@ -1448,7 +1618,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/partners\/ciluw-creations.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/partners\/debaz.jpg": {
 		"ft": 16384,
@@ -1456,7 +1627,8 @@
 		"oA": 2,
 		"oAP": "\/source\/images\/partners\/debaz.jpg",
 		"oF": 1,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/partners\/djenowa-logo.jpg": {
 		"ft": 16384,
@@ -1464,7 +1636,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/partners\/djenowa-logo.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/partners\/francaises-ethniques-logo.jpg": {
 		"ft": 16384,
@@ -1472,7 +1645,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/partners\/francaises-ethniques-logo.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/partners\/m-crea-style-logo.jpg": {
 		"ft": 16384,
@@ -1480,7 +1654,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/partners\/m-crea-style-logo.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/partners\/nappy-queen.jpg": {
 		"ft": 16384,
@@ -1488,7 +1663,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/partners\/nappy-queen.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/partners\/paris-love-locks.jpg": {
 		"ft": 16384,
@@ -1496,7 +1672,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/partners\/paris-love-locks.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/partners\/partner_bg.jpg": {
 		"ft": 16384,
@@ -1504,7 +1681,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/partners\/partner_bg.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/images\/partners\/rawatan-wax-creations.jpg": {
 		"ft": 16384,
@@ -1512,7 +1690,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/partners\/rawatan-wax-creations.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/full\/photo1.jpg": {
 		"ft": 16384,
@@ -1520,7 +1699,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/full\/photo1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/full\/photo10.jpg": {
 		"ft": 16384,
@@ -1528,7 +1708,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/full\/photo10.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/full\/photo11.jpg": {
 		"ft": 16384,
@@ -1536,7 +1717,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/full\/photo11.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/full\/photo12.jpg": {
 		"ft": 16384,
@@ -1544,7 +1726,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/full\/photo12.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/full\/photo2.jpg": {
 		"ft": 16384,
@@ -1552,7 +1735,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/full\/photo2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/full\/photo3.jpg": {
 		"ft": 16384,
@@ -1560,7 +1744,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/full\/photo3.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/full\/photo4.jpg": {
 		"ft": 16384,
@@ -1568,7 +1753,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/full\/photo4.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/full\/photo5.jpg": {
 		"ft": 16384,
@@ -1576,7 +1762,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/full\/photo5.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/full\/photo6.jpg": {
 		"ft": 16384,
@@ -1584,7 +1771,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/full\/photo6.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/full\/photo7.jpg": {
 		"ft": 16384,
@@ -1592,7 +1780,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/full\/photo7.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/full\/photo8.jpg": {
 		"ft": 16384,
@@ -1600,7 +1789,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/full\/photo8.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/full\/photo9.jpg": {
 		"ft": 16384,
@@ -1608,7 +1798,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/full\/photo9.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/recent\/photo1.jpg": {
 		"ft": 16384,
@@ -1616,7 +1807,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/recent\/photo1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/recent\/photo10.jpg": {
 		"ft": 16384,
@@ -1624,7 +1816,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/recent\/photo10.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/recent\/photo11.jpg": {
 		"ft": 16384,
@@ -1632,7 +1825,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/recent\/photo11.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/recent\/photo12.jpg": {
 		"ft": 16384,
@@ -1640,7 +1834,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/recent\/photo12.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/recent\/photo2.jpg": {
 		"ft": 16384,
@@ -1648,7 +1843,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/recent\/photo2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/recent\/photo3.jpg": {
 		"ft": 16384,
@@ -1656,7 +1852,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/recent\/photo3.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/recent\/photo4.jpg": {
 		"ft": 16384,
@@ -1664,7 +1861,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/recent\/photo4.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/recent\/photo5.jpg": {
 		"ft": 16384,
@@ -1672,7 +1870,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/recent\/photo5.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/recent\/photo6.jpg": {
 		"ft": 16384,
@@ -1680,7 +1879,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/recent\/photo6.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/recent\/photo7.jpg": {
 		"ft": 16384,
@@ -1688,7 +1888,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/recent\/photo7.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/recent\/photo8.jpg": {
 		"ft": 16384,
@@ -1696,7 +1897,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/recent\/photo8.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/portfolio\/recent\/photo9.jpg": {
 		"ft": 16384,
@@ -1704,31 +1906,38 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/portfolio\/recent\/photo9.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/dark_rounded\/btnNext.png": {
 		"ft": 32768,
 		"iS": 932,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/dark_rounded\/btnNext.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/dark_rounded\/btnPrevious.png": {
 		"ft": 32768,
 		"iS": 944,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/dark_rounded\/btnPrevious.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/dark_rounded\/contentPattern.png": {
 		"ft": 32768,
 		"iS": 117,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/dark_rounded\/contentPattern.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/dark_rounded\/default_thumbnail.gif": {
 		"ft": 4194304,
@@ -1749,34 +1958,42 @@
 	"\/source\/images\/prettyPhoto\/dark_rounded\/sprite.png": {
 		"ft": 32768,
 		"iS": 2327,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/dark_rounded\/sprite.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/dark_square\/btnNext.png": {
 		"ft": 32768,
 		"iS": 932,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/dark_square\/btnNext.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/dark_square\/btnPrevious.png": {
 		"ft": 32768,
 		"iS": 944,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/dark_square\/btnPrevious.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/dark_square\/contentPattern.png": {
 		"ft": 32768,
 		"iS": 109,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/dark_square\/contentPattern.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/dark_square\/default_thumbnail.gif": {
 		"ft": 4194304,
@@ -1797,18 +2014,22 @@
 	"\/source\/images\/prettyPhoto\/dark_square\/sprite.png": {
 		"ft": 32768,
 		"iS": 1994,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/dark_square\/sprite.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/default\/default_thumb.png": {
 		"ft": 32768,
 		"iS": 1268,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/default\/default_thumb.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/default\/loader.gif": {
 		"ft": 4194304,
@@ -1821,90 +2042,112 @@
 	"\/source\/images\/prettyPhoto\/default\/sprite.png": {
 		"ft": 32768,
 		"iS": 4242,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/default\/sprite.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/default\/sprite_next.png": {
 		"ft": 32768,
 		"iS": 1175,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/default\/sprite_next.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/default\/sprite_prev.png": {
 		"ft": 32768,
 		"iS": 1173,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/default\/sprite_prev.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/default\/sprite_x.png": {
 		"ft": 32768,
 		"iS": 1067,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/default\/sprite_x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/default\/sprite_y.png": {
 		"ft": 32768,
 		"iS": 1073,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/default\/sprite_y.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/facebook\/btnNext.png": {
 		"ft": 32768,
 		"iS": 492,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/facebook\/btnNext.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/facebook\/btnPrevious.png": {
 		"ft": 32768,
 		"iS": 492,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/facebook\/btnPrevious.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/facebook\/contentPatternBottom.png": {
 		"ft": 32768,
 		"iS": 125,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/facebook\/contentPatternBottom.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/facebook\/contentPatternLeft.png": {
 		"ft": 32768,
 		"iS": 118,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/facebook\/contentPatternLeft.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/facebook\/contentPatternRight.png": {
 		"ft": 32768,
 		"iS": 117,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/facebook\/contentPatternRight.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/facebook\/contentPatternTop.png": {
 		"ft": 32768,
 		"iS": 125,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/facebook\/contentPatternTop.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/facebook\/default_thumbnail.gif": {
 		"ft": 4194304,
@@ -1925,26 +2168,32 @@
 	"\/source\/images\/prettyPhoto\/facebook\/sprite.png": {
 		"ft": 32768,
 		"iS": 2135,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/facebook\/sprite.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/light_rounded\/btnNext.png": {
 		"ft": 32768,
 		"iS": 932,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/light_rounded\/btnNext.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/light_rounded\/btnPrevious.png": {
 		"ft": 32768,
 		"iS": 944,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/light_rounded\/btnPrevious.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/light_rounded\/default_thumbnail.gif": {
 		"ft": 4194304,
@@ -1965,26 +2214,32 @@
 	"\/source\/images\/prettyPhoto\/light_rounded\/sprite.png": {
 		"ft": 32768,
 		"iS": 2301,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/light_rounded\/sprite.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/light_square\/btnNext.png": {
 		"ft": 32768,
 		"iS": 932,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/light_square\/btnNext.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/light_square\/btnPrevious.png": {
 		"ft": 32768,
 		"iS": 944,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/light_square\/btnPrevious.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/prettyPhoto\/light_square\/default_thumbnail.gif": {
 		"ft": 4194304,
@@ -2005,10 +2260,12 @@
 	"\/source\/images\/prettyPhoto\/light_square\/sprite.png": {
 		"ft": 32768,
 		"iS": 1994,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/source\/images\/prettyPhoto\/light_square\/sprite.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/source\/images\/slider\/slide1.jpg": {
 		"ft": 16384,
@@ -2016,7 +2273,8 @@
 		"oA": 0,
 		"oAP": "\/source\/images\/slider\/slide1.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/source\/includes\/_contact-info.pug": {
 		"cOD": 1,
@@ -2995,6 +3253,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -3192,6 +3454,10 @@
 			"optionString": "{'grouping': false, 'allowCall': false }"
 			},
 		"no-mixed-spaces-and-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-assign": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -3471,6 +3737,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -3522,6 +3792,10 @@
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -3616,6 +3890,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -4142,7 +4420,8 @@
 		"autoOutputPathRelativePath": "docs",
 		"autoOutputPathReplace1": "sources",
 		"autoOutputPathReplace2": "docs",
-		"autoOutputPathStyle": 3
+		"autoOutputPathStyle": 3,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -4235,7 +4514,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 1
+		"autoOutputPathStyle": 1,
+		"enableLossy": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
@@ -4491,7 +4772,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": ""
+	"websiteRelativeRoot": "\/docs"
 	},
 "settingsFileVersion": "3"
 }
