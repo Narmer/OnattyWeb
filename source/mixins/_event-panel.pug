@@ -1,0 +1,12 @@
+mixin event-panel(link, img, description, dates)
+  .col-sm-6
+    .event-single
+      a(href=link+".html")
+        img(src="images/events/"+img+".jpg" alt="")
+      .event-single-bottom
+        h3
+          a(href=link+".html")= description
+        p.text-right
+          span.postdate
+            i.fa.fa-calendar
+            = dates
