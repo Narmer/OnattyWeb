@@ -37,6 +37,11 @@ block scripts
 block content
   section
     - path
-    - var localPath = path+'images/Events/2015/'
-    - var photos = ['fashion-hair-show-2015-1', 'fashion-hair-show-2015-2', 'fashion-hair-show-2015-3', 'fashion-hair-show-2015-4']
+    - var localPath = path+'images/Events/2017-02/'
+    - var photos = ['concours-mariage-02-2017-1', 'concours-mariage-02-2017-2', 'concours-mariage-02-2017-3', 'concours-mariage-02-2017-4']
     +maconery4Grid(localPath, photos)
+    
+    .container
+      .flyer
+        .col-md-8
+          img(class="img-responsive" src=localPath+"concours-flyer.jpg" alt="")
