@@ -1,0 +1,47 @@
+extends ./layout.pug
+
+include ../mixins/_head.pug
+include ../mixins/_navigation.pug
+include ../mixins/_scripts.pug
+include ../mixins/_footer.pug
+include ../mixins/_subFooter.pug
+include ../mixins/_maconery-grid-4.pug
+
+append meta
+	title Onatty Kreasyon
+
+block css
+	- var path = '../'
+	+css(path)
+
+block headScripts
+	- path
+	+headScripts(path)
+
+block favicon
+	- path
+	+favicon(path)
+
+block navigation
+	- path
+	+navigation(path)
+
+block footer
+	- path
+	+footer(path)
+
+block scripts
+	- path
+	+scripts(path)
+
+block content
+	section
+		- path
+		- var localPath = path+'images/Events/2015/'
+		- var photos = ['fashion-hair-show-2015-1', 'fashion-hair-show-2015-2', 'fashion-hair-show-2015-3', 'fashion-hair-show-2015-4']
+		+maconery4Grid(localPath, photos)
+		.container
+			.flyer
+				.col-md-8
+					- localpath = path+'images/Events/2015/'
+					img(class="img-responsive" src=localPath+"flyer.jpg" alt="")

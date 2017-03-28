@@ -1,0 +1,48 @@
+extends ./layout.pug
+
+include ../mixins/_head.pug
+include ../mixins/_navigation.pug
+include ../mixins/_scripts.pug
+include ../mixins/_footer.pug
+include ../mixins/_subFooter.pug
+include ../mixins/_maconery-grid-4.pug
+
+append meta
+	title Onatty Kreasyon
+
+block css
+	- var path = '../'
+	+css(path)
+
+block headScripts
+	- path
+	+headScripts(path)
+
+block favicon
+	- path
+	+favicon(path)
+
+block navigation
+	- path
+	+navigation(path)
+
+block footer
+	- path
+	+footer(path)
+
+block scripts
+	- path
+	+scripts(path)
+
+block content
+	section
+		- path
+		- var localPath = path+'images/Events/2017-02/'
+		- var photos = ['concours-mariage-02-2017-1', 'concours-mariage-02-2017-2', 'concours-mariage-02-2017-4', 'concours-mariage-02-2017-3']
+		+maconery4Grid(localPath, photos)
+		- photos = ['concours-mariage-02-2017-5', 'concours-mariage-02-2017-6', 'concours-mariage-02-2017-8', 'concours-mariage-02-2017-7']
+		+maconery4Grid(localPath, photos)
+		.container
+			.flyer
+				.col-md-8
+					img(class="img-responsive" src=localPath+"concours-flyer.jpg" alt="")
