@@ -8,33 +8,38 @@ include ../mixins/_subFooter.pug
 include ../mixins/_maconery-grid-8.pug
 
 append meta
-  title Onatty Kreasyon
+	title Onatty Kreasyon
 
 block css
-  - var path = '../'
-  +css(path)
-  
+	- var path = '../'
+	+css(path)
+
 block headScripts
-  - path
-  +headScripts(path)
-  
+	- path
+	+headScripts(path)
+
 block favicon
-  - path
-  +favicon(path)
+	- path
+	+favicon(path)
 
 block navigation
-  - path
-  +navigation(path)
+	- path
+	+navigation(path)
 
 block footer
-  - path
-  +footer(path)
-  
+	- path
+	+footer(path)
+
 block scripts
-  - path
-  +scripts(path)
+	- path
+	+scripts(path)
 
 block content
-  section
-    - path
-    +maconery8Grid(path)
+	section
+		- path
+		+maconery8Grid(path)
+		.container
+			.flyer
+				.col-md-8
+					- localpath = path+'images/Events/2016/'
+					img(class="img-responsive" src=localpath+"flyer.jpg" alt="")
