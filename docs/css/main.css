@@ -1480,6 +1480,10 @@ footer .widget ul {
   padding: 0;
 }
 
+.content_wrap_outer {
+  margin-bottom: 40px;
+}
+
 /* Start: Recommended Isotope styles */
 /**** Isotope Filtering ****/
 .isotope-item {
