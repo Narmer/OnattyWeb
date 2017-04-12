@@ -1,0 +1,48 @@
+include ./_subFooter.pug
+
+mixin footer(path)
+  footer
+    .container.wow.fadeInDown(data-wow-duration="1000ms" data-wow-delay="600ms")
+      .row
+        .col-md-4
+          .widget.footer-widget.widget_recent_entries
+            h3 L'institut du locks
+            p L'institut Onatty ne reçoit que sur rendez-vous afin de vous assurer ainsi écoute et attention pour répondre aux besoins de vos locks.
+            img(class="on-map" src=path+"images/map/adress-onatty1.jpg")
+            ul.list-unstyled
+              li Métros :
+              li Charonne (ligne 9) ou Alexandre Dumas (ligne 2)
+
+        .col-md-4
+          #text-2.widget.footer-widget.widget_text
+            h3 Nous sommes ouvert
+            .textwidget
+              .box-border.double
+                ul.list-border-bottom
+                  li
+                    span.pull-left Lundi - Mardi
+                    span.pull-right.id-color Fermé
+                    .clearfix
+                  li
+                    span.pull-left Mercredi
+                    span.pull-right.id-color 10:00 à 19:00
+                    .clearfix
+                  li
+                    span.pull-left Jeudi
+                    span.pull-right.id-color 10:00 à 19:00
+                    .clearfix
+                  li
+                    span.pull-left Vendredi
+                    span.pull-right.id-color 10:00 à 22:00
+                    .clearfix
+                  li
+                    span.pull-left Samedi
+                    span.pull-right.id-color 10:00 à 19:00
+                    .clearfix
+                  li
+                    span.pull-left Dimanche
+                    span.pull-right.id-color Fermé
+                    .clearfix
+
+        .col-md-4
+    +subFooter(path)

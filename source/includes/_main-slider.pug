@@ -1,19 +1,16 @@
 .carousel.slide
-  ol.carousel-indicators
-    li(data-target="#main-slider" data-slide-to="0" class="active")
-    li(data-target="#main-slider" data-slide-to="1")
-    li(data-target="#main-slider" data-slide-to="2")
   .carousel-inner
-    div(class="item active" style="background-image: url(images/slider/bg1.jpg)")
+    div(class="item active" style="background-image: url(images/slider/slide1.jpg)")
       .container
         .row.slide-margin
           .col-sm-6
             .carousel-content
-              h1.animation.animated-item-1 Onatty Kreasyon
-              h2.animation.animated-item-2 Le salon des Locks
-              a(class="btn-slide animation animated-item-3" href="#") Prendre Rendez-Vous
+              h1.animation.animated-item-1 O'NATTY
+              h2.animation.animated-item-2 L'institut des Locks
+              a(class="btn-slide animation animated-item-3" href="//www.lsreservation.com/onatty") Prendre Rendez-Vous
 
-    div(class="item" style="background-image: url(images/slider/bg1.jpg)")
+  block includes/_slider-bottom.pug
+    //-div(class="item" style="background-image: url(images/slider/bg1.jpg)")
       .container
         .row.slide-margin
           .col-sm-6

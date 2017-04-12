@@ -1,0 +1,38 @@
+doctype html
+html(lang="fr")
+	head
+		block meta
+			include includes/_meta.pug
+			title Onatty Kreasyon
+
+		block css
+			include includes/_css.pug
+
+		block headScripts
+			include includes/_head-scripts.pug
+
+		block favicon
+			include includes/_favicon.pug
+
+	body.homepage
+
+		block topbar
+			include includes/_top-bar.pug
+
+		block navigation
+			include includes/_navbar.pug
+
+		block header
+			header#header
+			section#main-slider.no-margin
+				include includes/_main-slider.pug
+
+		block content
+
+		block footer
+			footer
+				include includes/_footer.pug
+				include includes/_sub-footer.pug
+
+		block scripts
+			include includes/_scripts.pug

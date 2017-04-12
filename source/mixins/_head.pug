@@ -1,0 +1,25 @@
+
+
+mixin css(path)
+  //- core CSS
+  link(href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css", rel="stylesheet", integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u", crossorigin="anonymous")
+  link(href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet")
+  link(href=path+"css/animate.min.css" rel="stylesheet")
+  link(href=path+"css/prettyPhoto.css" rel="stylesheet")
+  link(href=path+"css/main.css" rel="stylesheet")
+  link(href=path+"css/responsive.css" rel="stylesheet")
+
+
+mixin headScripts(path)
+  <!--[if lt IE 9]>
+  script(src=path+"js/html5shiv.js")
+  script(src=path+"js/respond.min.js")
+  <![endif]-->
+
+mixin favicon(path)
+  - var link = "images/ico/"
+  link(rel="shortcut icon" href=path+link+"favicon.ico")
+  link(rel="apple-touch-icon-precomposed" sizes="144x144" href=path+link+"apple-touch-icon-144-precomposed.png")
+  link(rel="apple-touch-icon-precomposed" sizes="114x114" href=path+link+"apple-touch-icon-114-precomposed.png")
+  link(rel="apple-touch-icon-precomposed" sizes="72x72" href=path+link+"apple-touch-icon-72-precomposed.png")
+  link(rel="apple-touch-icon-precomposed" href=path+link+"apple-touch-icon-57-precomposed.png")
