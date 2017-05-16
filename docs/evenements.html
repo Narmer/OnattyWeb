@@ -143,18 +143,9 @@
       <div class="subfooter">
         <div class="container">
           <div class="row">
-            <div class="col-md-6">
-              <d>&copy; 2017 Onatty</d>
-            </div>
-            <div class="col-md-6">
-              <ul class="pull-right list-unstyled list-inline">
-                <li><a href="index.html">Accueil</a></li>
-                <li><a href="index.html#horaires">Nos Horaires</a></li>
-                <li><a href="evenements.html">Evènements</a></li>
-                <li><a href="index.html#prestations">Prestations</a></li>
-                <li><a href="index.html#recent-works">Réalisations</a></li>
-              </ul>
-            </div>
+            <div class="col-xs-5"><span>&copy; 2017 Onatty</span></div>
+            <div class="col-xs-2 text-center"><a href="#top"><i class="fa fa-chevron-up"></i></a></div>
+            <div class="col-xs-5 text-right"><span class="author">Made with <i class="fa fa-heart"></i> by <a data-toggle="tooltip" data-placement="top" href="https://lestudio.shuttlecoder.academy/" title="Agence Web de création de sites beaux et performants" target="_blank">ShuttleCoder</a></span></div>
           </div>
         </div>
       </div>
@@ -165,5 +156,10 @@
     <script src="js/jquery.isotope.min.js"></script>
     <script src="js/main.js"></script>
     <script src="js/wow.min.js"></script>
+    <script>
+      $(function () {
+        $('[data-toggle="tooltip"]').tooltip()
+      })
+    </script>
   </body>
 </html>
