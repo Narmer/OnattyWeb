@@ -1782,6 +1782,10 @@ shortcodes page css
   margin-left: 15px;
 }
 
+.author i {
+  color: #ffd700;
+}
+
 .flyer {
   display: flex;
   justify-content: center;
