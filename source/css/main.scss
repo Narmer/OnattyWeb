@@ -379,9 +379,17 @@ input.search-form:hover {
   padding-bottom: 0;
 }
 
-.shop-button {
+.navbar-inverse .navbar-nav > li >.shop-button {
   border: solid 2px red;
   color: red;
+  &:active {
+    background-color: red;
+  }
+  &:hover,
+  &:active {
+    background-color: red;
+    color: #fff;
+  }
 }
 
 @media (min-width: 768px) {
