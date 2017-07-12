@@ -379,6 +379,11 @@ input.search-form:hover {
   padding-bottom: 0;
 }
 
+.shop-button {
+  border: solid 2px red;
+  color: red;
+}
+
 @media (min-width: 768px) {
   .navbar-right {
     padding-top: 30px;
