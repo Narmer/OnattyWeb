@@ -365,9 +365,18 @@ input.search-form:hover {
   padding-bottom: 0;
 }
 
-.shop-button {
+.navbar-inverse .navbar-nav > li > .shop-button {
   border: solid 2px red;
   color: red;
+}
+
+.navbar-inverse .navbar-nav > li > .shop-button:active {
+  background-color: red;
+}
+
+.navbar-inverse .navbar-nav > li > .shop-button:hover, .navbar-inverse .navbar-nav > li > .shop-button:active {
+  background-color: red;
+  color: #fff;
 }
 
 @media (min-width: 768px) {
